@@ -1,5 +1,6 @@
 import { Header } from "@/components/Header";
 import { RevealOnScroll } from "@/components/RevealOnScroll";
+import { WhatsAppButton } from "@/components/WhatsAppButton";
 import { About } from "@/components/sections/About";
 import { Audience } from "@/components/sections/Audience";
 import { Contact } from "@/components/sections/Contact";
@@ -40,6 +41,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
         <Contact t={dict.contact} locale={locale} />
       </main>
       <Footer t={dict.footer} nav={dict.nav} />
+      <WhatsAppButton label={dict.contact.direct.whatsapp} />
       <RevealOnScroll />
     </>
   );

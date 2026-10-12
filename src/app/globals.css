@@ -15,6 +15,7 @@
   --serif:var(--font-serif),'Iowan Old Style','Times New Roman',serif;
   --sans:var(--font-sans),system-ui,-apple-system,'Segoe UI',sans-serif;
   --danger:#9B3B2E;
+  --whatsapp:#25D366;
   --gutter:clamp(16px,4vw,48px);
   --wrap:1240px;
   --ease:cubic-bezier(.2,.7,.2,1);
@@ -237,6 +238,13 @@ blockquote{margin:0}
 .direct .wa{margin-top:16px;border:1px solid var(--bronze-2);border-radius:999px;justify-content:center;padding:14px 18px;font-weight:600}
 .direct .wa:hover{background:var(--bronze-2);color:var(--ink)}
 .direct .wa:hover svg{color:var(--ink)}
+
+/* floating WhatsApp button */
+.wa-float{position:fixed;right:20px;bottom:calc(20px + env(safe-area-inset-bottom,0px));z-index:40;width:58px;height:58px;border-radius:50%;background:var(--whatsapp);color:#fff;display:flex;align-items:center;justify-content:center;box-shadow:0 14px 30px -12px rgba(30,26,22,.6);transition:transform .3s var(--ease),box-shadow .3s var(--ease)}
+.wa-float:hover{transform:translateY(-2px);box-shadow:0 18px 34px -12px rgba(30,26,22,.7)}
+.wa-float svg{width:30px;height:30px}
+@media (max-width:720px){.wa-float{right:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px));width:54px;height:54px}.wa-float svg{width:28px;height:28px}}
+@media (prefers-reduced-motion:reduce){.wa-float{transition:none}}
 
 /* footer */
 .site-footer{background:var(--ink);color:rgba(245,240,232,.66);padding:72px 0 36px;font-size:.84rem;border-top:1px solid var(--line-dark)}
