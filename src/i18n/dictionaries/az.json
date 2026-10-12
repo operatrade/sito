@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "title": "Opera Trade — beynəlxalq layihələr üçün İtalyan mebeli və kontrakt",
+    "description": "Memarları, otelləri və beynəlxalq sifarişçiləri İtaliyanın ən yaxşı mebel istehsalçıları ilə birləşdiririk və hər təchizatı məhsulun seçimindən quraşdırılmasına qədər müşayiət edirik."
+  },
+  "draft": {
+    "ribbon": "Yeni saytın ilkin versiyası — fotolar, rəqəmlər, layihələr və sitat müvəqqətidir.",
+    "quoteNote": "Nümunə sitat — Damiano ilə razılaşdırılacaq."
+  },
+  "nav": {
+    "about": "Haqqımızda",
+    "method": "Metod",
+    "supply": "Təchizat",
+    "partners": "Tərəfdaşlar",
+    "projects": "Layihələr",
+    "contact": "Əlaqə",
+    "cta": "Layihəni müzakirə edək",
+    "menu": "Menyu",
+    "close": "Bağla",
+    "language": "Dil",
+    "main": "Əsas naviqasiya"
+  },
+  "hero": {
+    "eyebrow": "İtalyan mebeli və kontrakt",
+    "titleStart": "İtalyan ustalığı — ",
+    "titleEmphasis": "dünyanın istənilən yerində.",
+    "lead": "Memarları, otelləri və beynəlxalq sifarişçiləri İtaliyanın ən yaxşı mebel istehsalçıları ilə birləşdiririk və hər təchizatı məhsulun seçimindən quraşdırılmasına qədər müşayiət edirik.",
+    "primaryCta": "Layihənizdən danışın",
+    "secondaryCta": "İstehsalçılarımız",
+    "badge": "seçilmiş İtalyan istehsalçısı",
+    "caption": "Şəxsi rezidensiya · nümunə"
+  },
+  "places": {
+    "fano": "Fano",
+    "baku": "Bakı",
+    "tirana": "Tirana",
+    "podgorica": "Podqoritsa",
+    "middleEast": "Yaxın Şərq"
+  },
+  "map": {
+    "label": "Xəritə: Fanodan Balkanlara, Bakıya və Yaxın Şərqə",
+    "office": "Ofis",
+    "balkans": "Balkanlar",
+    "mediterranean": "Aralıq dənizi",
+    "blackSea": "Qara dəniz",
+    "caspianSea": "Xəzər dənizi"
+  },
+  "stats": {
+    "years": "il mebel ticarətində təcrübə",
+    "brands": "tərəfdaş İtalyan istehsalçısı",
+    "categories": "məhsul kateqoriyası — vahid əlaqə",
+    "offices": "ofis — Fanoda və Bakıda"
+  },
+  "about": {
+    "eyebrow": "Haqqımızda",
+    "title": "İtalyan istehsalçıları ilə böyük beynəlxalq layihələr arasında körpü.",
+    "paragraphs": [
+      "Opera Trade Damiano Baldoninin beynəlxalq mebel ticarətindəki uzunillik təcrübəsi üzərində qurulub. Biz yalnız onilliklərdir İtaliyada və xaricdə uğurla istehsal edən şirkətlərlə işləyirik və onları İtaliyadan kənarda tikinti və interyer layihələri həyata keçirənlərin xidmətinə veririk.",
+      "Hər sorğu fərdi axtarışdır: doğru istehsalçı, unikal məhsul, rəqabətli qiymət. Sonra isə təhvilə qədər müştərinin yanında oluruq."
+    ],
+    "pillars": [
+      {
+        "title": "Ciddi seçim",
+        "text": "Yalnız onillik tarixi və sübut olunmuş keyfiyyəti olan istehsalçılar."
+      },
+      {
+        "title": "Fərdi seçim",
+        "text": "Layihə üçün doğru məhsul — satmaq üçün ən rahatı yox."
+      },
+      {
+        "title": "Yerində iştirak",
+        "text": "Müştəriləri, çatdırılmaları və obyektləri yaxından izləmək üçün Bakıda ofis."
+      }
+    ]
+  },
+  "audience": {
+    "eyebrow": "Kimlər üçün işləyirik",
+    "title": "Bir tərəfdaş — əməkdaşlığın dörd forması.",
+    "items": [
+      {
+        "title": "Memarlar və interyer dizaynerləri",
+        "text": "İtalyan brendlərini, nümunələri və fərdi bitirmə materiallarını seçmək üçün vahid əlaqə."
+      },
+      {
+        "title": "Otellər və developerlər",
+        "text": "Otellər, rezidensiyalar və ofislər üçün tam kontrakt təchizatı — vaxtında və büdcə daxilində."
+      },
+      {
+        "title": "Dilerlər və idxalçılar",
+        "text": "Bazarınıza gətirmək üçün seçilmiş İtalyan istehsalçılarına birbaşa çıxış."
+      },
+      {
+        "title": "Şəxsi rezidensiyalar",
+        "text": "Made in Italy-nin ən yaxşıları ilə əşyalanmış villa və mənzillər — açar təhvil."
+      }
+    ]
+  },
+  "method": {
+    "eyebrow": "Metodumuz",
+    "titleStart": "İlk eskizdən ",
+    "titleEmphasis": "son təhvilə qədər.",
+    "steps": [
+      {
+        "title": "Dinləmə",
+        "text": "Layihəni, üslubu və büdcəni sizinlə və ya memarınızla birlikdə öyrənirik."
+      },
+      {
+        "title": "Seçim",
+        "text": "Ən uyğun istehsalçıları müəyyənləşdirir, təkliflər, nümunələr və qiymət təklifləri hazırlayırıq."
+      },
+      {
+        "title": "Koordinasiya",
+        "text": "Sifarişləri, istehsalı, keyfiyyətə nəzarəti və İtaliyadan göndərişi idarə edirik."
+      },
+      {
+        "title": "Təhvil",
+        "text": "Bakı ofisimizin dəstəyi ilə çatdırılma və quraşdırmanı yerində izləyirik."
+      }
+    ]
+  },
+  "supply": {
+    "eyebrow": "Nə təchiz edirik",
+    "title": "Layihəyə lazım olan hər şey — vahid idarəetmə ilə.",
+    "categories": {
+      "kitchens": "Mətbəxlər",
+      "lighting": "İşıqlandırma",
+      "sofas": "Divanlar və yumşaq mebel",
+      "furniture": "Mebel: klassikdən müasirə",
+      "surfaces": "Parket, mərmər və keramika",
+      "doorsWindows": "Qapılar və pəncərələr",
+      "acoustic": "Akustik panellər və kontrakt",
+      "metal": "Metal üzlüklər və ofis konstruksiyaları"
+    }
+  },
+  "partners": {
+    "eyebrow": "İstehsalçılar",
+    "title": "Onilliklərdir uğurla istehsal edən şirkətlər.",
+    "note": "Kateqoriyalar üzrə əməkdaşlıq etdiyimiz İtalyan brendlərindən seçmələr.",
+    "groups": {
+      "kitchens": "Mətbəxlər",
+      "lighting": "İşıqlandırma",
+      "sofas": "Divanlar",
+      "furniture": "Mebel",
+      "doors": "Qapılar",
+      "safes": "Seyflər və aksesuarlar",
+      "metal": "Metal üzlüklər",
+      "acoustic": "Akustik panellər"
+    }
+  },
+  "projects": {
+    "eyebrow": "Layihələr",
+    "title": "Seçilmiş təhvil verilmiş layihələr.",
+    "note": "İllüstrativ nümunələr: burada real layihələrin foto və məlumatları olacaq.",
+    "sample": "Nümunə",
+    "items": [
+      {
+        "place": "Bakı, Azərbaycan",
+        "title": "Butik otel",
+        "scope": "Otaqlar, lobbi və işıqlandırma"
+      },
+      {
+        "place": "Fars körfəzi",
+        "title": "Kurort və rezidensiyalar",
+        "scope": "Açıq hava və yumşaq mebel"
+      },
+      {
+        "place": "Monteneqro",
+        "title": "Dəniz kənarında villa",
+        "scope": "Tam mebel və pəncərələr"
+      },
+      {
+        "place": "Tirana, Albaniya",
+        "title": "İnzibati ofislər",
+        "scope": "Akustik panellər və konstruksiyalar"
+      }
+    ]
+  },
+  "where": {
+    "eyebrow": "Harada işləyirik",
+    "titleStart": "İtaliyadan ",
+    "titleEmphasis": "inkişaf edən bazarlara.",
+    "text": "Fanodakı baş ofisimizdən Balkanlara, Qafqaza və Yaxın Şərqə təchizatı koordinasiya edirik. Bakıdakı ofisimiz müştəriləri və çatdırılmaları yerində izləyir.",
+    "headquarters": {
+      "label": "Baş ofis",
+      "address": "Fano (PU), Marke — İtaliya"
+    },
+    "regionalOffice": {
+      "label": "Regional ofis",
+      "floor": "14-cü mərtəbə"
+    }
+  },
+  "founder": {
+    "eyebrow": "Təsisçi",
+    "quote": "Mən sadəcə mebel satmıram: hər layihə üçün doğru istehsalçını tapıram və son təhvilə qədər şəxsən cavabdeh oluram.",
+    "name": "Damiano Baldoni",
+    "role": "Təsisçi və CEO",
+    "portraitPlaceholder": "Portret əlavə olunacaq"
+  },
+  "contact": {
+    "eyebrow": "Əlaqə",
+    "titleStart": "Bizə ",
+    "titleEmphasis": "layihənizdən danışın.",
+    "lead": "Adətən bir iş günü ərzində şəxsən cavab veririk.",
+    "form": {
+      "name": "Ad və soyad",
+      "company": "Şirkət",
+      "email": "E-poçt",
+      "phone": "Telefon",
+      "projectType": "Layihənin növü",
+      "projectTypes": [
+        "Otel / kontrakt",
+        "Şəxsi rezidensiya",
+        "Satış / idxal",
+        "Memarlıq studiyası",
+        "Digər"
+      ],
+      "message": "Layihəniz",
+      "messagePlaceholder": "Növ, sahə, müddət, təyinat ölkəsi…",
+      "privacy": "Məxfilik siyasəti ilə tanış oldum.",
+      "submit": "Sorğunu göndər",
+      "sending": "Göndərilir…",
+      "sent": "Təşəkkür edirik, sorğunuzu aldıq. Tezliklə cavab verəcəyik.",
+      "error": "Göndərmək alınmadı. Yenidən cəhd edin və ya info@operatrade.it ünvanına yazın.",
+      "required": "Ad, e-poçt və mesajı doldurun və məxfilik siyasətini qəbul edin."
+    },
+    "direct": {
+      "title": "Və ya birbaşa",
+      "whatsapp": "WhatsApp-da yazın"
+    }
+  },
+  "footer": {
+    "tagline": "Beynəlxalq layihələr üçün İtalyan mebeli və kontrakt.",
+    "rights": "Bütün hüquqlar qorunur",
+    "privacy": "Məxfilik",
+    "cookies": "Kukilər"
+  }
+}

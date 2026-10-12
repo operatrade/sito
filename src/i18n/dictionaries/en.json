@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "title": "Opera Trade — Italian furniture & contract for international projects",
+    "description": "We connect architects, hotels and international clients with Italy’s finest furniture manufacturers — and we follow every order, from product selection to installation."
+  },
+  "draft": {
+    "ribbon": "New website preview — photos, figures, projects and quote are provisional.",
+    "quoteNote": "Sample quote, to be written and approved with Damiano."
+  },
+  "nav": {
+    "about": "About",
+    "method": "Method",
+    "supply": "Supplies",
+    "partners": "Partners",
+    "projects": "Projects",
+    "contact": "Contact",
+    "cta": "Discuss your project",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "main": "Main navigation"
+  },
+  "hero": {
+    "eyebrow": "Italian furniture & contract",
+    "titleStart": "Italian craftsmanship, ",
+    "titleEmphasis": "delivered anywhere.",
+    "lead": "We connect architects, hotels and international clients with Italy’s finest furniture manufacturers — and we follow every order, from product selection to installation.",
+    "primaryCta": "Tell us about your project",
+    "secondaryCta": "Our manufacturers",
+    "badge": "selected Italian manufacturers",
+    "caption": "Private residence · sample"
+  },
+  "places": {
+    "fano": "Fano",
+    "baku": "Baku",
+    "tirana": "Tirana",
+    "podgorica": "Podgorica",
+    "middleEast": "Middle East"
+  },
+  "map": {
+    "label": "Map: from Fano to the Balkans, Baku and the Middle East",
+    "office": "Office",
+    "balkans": "Balkans",
+    "mediterranean": "Mediterranean Sea",
+    "blackSea": "Black Sea",
+    "caspianSea": "Caspian Sea"
+  },
+  "stats": {
+    "years": "years of experience in the furniture trade",
+    "brands": "Italian partner manufacturers",
+    "categories": "product categories, one point of contact",
+    "offices": "offices, in Fano and Baku"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "A bridge between Italian manufacturers and major international projects.",
+    "paragraphs": [
+      "Opera Trade is built on Damiano Baldoni’s long experience in the international furniture trade. We work only with companies that have been producing successfully for decades, in Italy and abroad, and put them at the service of those who build and furnish beyond Italy.",
+      "Every request is a tailored search: the right manufacturer, the unique product, the competitive price. Then we stay at our client’s side until delivery."
+    ],
+    "pillars": [
+      {
+        "title": "Rigorous selection",
+        "text": "Only manufacturers with decades of history and proven quality."
+      },
+      {
+        "title": "Tailored sourcing",
+        "text": "The right product for the project, not the easiest one to sell."
+      },
+      {
+        "title": "On-site presence",
+        "text": "An office in Baku to follow clients, deliveries and sites up close."
+      }
+    ]
+  },
+  "audience": {
+    "eyebrow": "Who we work with",
+    "title": "One partner, four ways to work together.",
+    "items": [
+      {
+        "title": "Architects & interior designers",
+        "text": "A single contact to specify Italian brands, samples and custom finishes."
+      },
+      {
+        "title": "Hotels & developers",
+        "text": "Complete contract supplies for hotels, residences and offices — on time and on budget."
+      },
+      {
+        "title": "Retailers & importers",
+        "text": "Direct access to selected Italian manufacturers to bring into your market."
+      },
+      {
+        "title": "Private residences",
+        "text": "Villas and apartments furnished with the best of Made in Italy, turnkey."
+      }
+    ]
+  },
+  "method": {
+    "eyebrow": "Our method",
+    "titleStart": "From the first sketch ",
+    "titleEmphasis": "to the final delivery.",
+    "steps": [
+      {
+        "title": "Listening",
+        "text": "We study the project, style and budget with you or your architect."
+      },
+      {
+        "title": "Selection",
+        "text": "We identify the best-suited manufacturers and prepare proposals, samples and quotes."
+      },
+      {
+        "title": "Coordination",
+        "text": "We manage orders, production, quality control and shipping from Italy."
+      },
+      {
+        "title": "Delivery",
+        "text": "We oversee arrival and installation on site, supported by our Baku office."
+      }
+    ]
+  },
+  "supply": {
+    "eyebrow": "What we supply",
+    "title": "Everything a project needs, under one direction.",
+    "categories": {
+      "kitchens": "Kitchens",
+      "lighting": "Lighting",
+      "sofas": "Sofas & upholstery",
+      "furniture": "Furniture, classic to contemporary",
+      "surfaces": "Parquet, marble & ceramics",
+      "doorsWindows": "Doors & windows",
+      "acoustic": "Acoustic panels & contract",
+      "metal": "Metal cladding & office structures"
+    }
+  },
+  "partners": {
+    "eyebrow": "The manufacturers",
+    "title": "Companies that have been producing successfully for decades.",
+    "note": "A selection of the Italian brands we work with, by category.",
+    "groups": {
+      "kitchens": "Kitchens",
+      "lighting": "Lighting",
+      "sofas": "Sofas",
+      "furniture": "Furniture",
+      "doors": "Doors",
+      "safes": "Safes & accessories",
+      "metal": "Metal cladding",
+      "acoustic": "Acoustic panels"
+    }
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Selected delivered projects.",
+    "note": "Illustrative examples: real project photos and details will go here.",
+    "sample": "Sample",
+    "items": [
+      {
+        "place": "Baku, Azerbaijan",
+        "title": "Boutique hotel",
+        "scope": "Rooms, lobby & lighting"
+      },
+      {
+        "place": "Persian Gulf",
+        "title": "Resort & residences",
+        "scope": "Outdoor furniture & upholstery"
+      },
+      {
+        "place": "Montenegro",
+        "title": "Seaside villa",
+        "scope": "Full furnishing & windows"
+      },
+      {
+        "place": "Tirana, Albania",
+        "title": "Executive offices",
+        "scope": "Acoustic panels & structures"
+      }
+    ]
+  },
+  "where": {
+    "eyebrow": "Where we work",
+    "titleStart": "From Italy to ",
+    "titleEmphasis": "growing markets.",
+    "text": "From our Fano headquarters we coordinate supplies to the Balkans, the Caucasus and the Middle East. In Baku, our office follows clients and deliveries on site.",
+    "headquarters": {
+      "label": "Headquarters",
+      "address": "Fano (PU), Marche — Italy"
+    },
+    "regionalOffice": {
+      "label": "Regional office",
+      "floor": "14th floor"
+    }
+  },
+  "founder": {
+    "eyebrow": "The founder",
+    "quote": "I don’t simply sell furniture: I find the right manufacturer for every project, and I stand behind it until the very last delivery.",
+    "name": "Damiano Baldoni",
+    "role": "Founder & CEO",
+    "portraitPlaceholder": "Portrait to come"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "titleStart": "Tell us about ",
+    "titleEmphasis": "your project.",
+    "lead": "We reply personally, usually within one business day.",
+    "form": {
+      "name": "Full name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone",
+      "projectType": "Project type",
+      "projectTypes": [
+        "Hotel / contract",
+        "Private residence",
+        "Retail / import",
+        "Architecture studio",
+        "Other"
+      ],
+      "message": "Your project",
+      "messagePlaceholder": "Type, size, timing, destination country…",
+      "privacy": "I have read the privacy policy.",
+      "submit": "Send request",
+      "sending": "Sending…",
+      "sent": "Thank you, we have received your request. We will reply shortly.",
+      "error": "Sending failed. Please try again or write to info@operatrade.it.",
+      "required": "Please fill in name, email and message, and accept the privacy policy."
+    },
+    "direct": {
+      "title": "Or reach us directly",
+      "whatsapp": "Message us on WhatsApp"
+    }
+  },
+  "footer": {
+    "tagline": "Italian furniture & contract for international projects.",
+    "rights": "All rights reserved",
+    "privacy": "Privacy",
+    "cookies": "Cookies"
+  }
+}

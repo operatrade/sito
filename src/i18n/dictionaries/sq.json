@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "title": "Opera Trade — mobilie italiane & kontrakt për projekte ndërkombëtare",
+    "description": "Lidhim arkitektë, hotele dhe klientë ndërkombëtarë me prodhuesit më të mirë italianë të mobilieve — dhe ndjekim çdo furnizim, nga zgjedhja e produktit deri te montimi."
+  },
+  "draft": {
+    "ribbon": "Pamje paraprake e faqes së re — fotot, shifrat, projektet dhe citimi janë të përkohshme.",
+    "quoteNote": "Citim shembull, do të miratohet me Damianon."
+  },
+  "nav": {
+    "about": "Rreth nesh",
+    "method": "Metoda",
+    "supply": "Furnizime",
+    "partners": "Partnerët",
+    "projects": "Projektet",
+    "contact": "Kontakt",
+    "cta": "Flasim për projektin",
+    "menu": "Menu",
+    "close": "Mbyll",
+    "language": "Gjuha",
+    "main": "Navigimi kryesor"
+  },
+  "hero": {
+    "eyebrow": "Mobilie italiane & kontrakt",
+    "titleStart": "Mjeshtëria italiane, ",
+    "titleEmphasis": "e dorëzuar kudo.",
+    "lead": "Lidhim arkitektë, hotele dhe klientë ndërkombëtarë me prodhuesit më të mirë italianë të mobilieve — dhe ndjekim çdo furnizim, nga zgjedhja e produktit deri te montimi.",
+    "primaryCta": "Na tregoni për projektin tuaj",
+    "secondaryCta": "Prodhuesit tanë",
+    "badge": "prodhues italianë të përzgjedhur",
+    "caption": "Rezidencë private · shembull"
+  },
+  "places": {
+    "fano": "Fano",
+    "baku": "Baku",
+    "tirana": "Tiranë",
+    "podgorica": "Podgoricë",
+    "middleEast": "Lindja e Mesme"
+  },
+  "map": {
+    "label": "Harta: nga Fano drejt Ballkanit, Bakusë dhe Lindjes së Mesme",
+    "office": "Zyrë",
+    "balkans": "Ballkani",
+    "mediterranean": "Deti Mesdhe",
+    "blackSea": "Deti i Zi",
+    "caspianSea": "Deti Kaspik"
+  },
+  "stats": {
+    "years": "vjet përvojë në tregtinë e mobilieve",
+    "brands": "prodhues italianë partnerë",
+    "categories": "kategori produktesh, një kontakt i vetëm",
+    "offices": "zyra, në Fano dhe në Baku"
+  },
+  "about": {
+    "eyebrow": "Rreth nesh",
+    "title": "Një urë mes prodhuesve italianë dhe projekteve të mëdha ndërkombëtare.",
+    "paragraphs": [
+      "Opera Trade lind nga përvoja e gjatë e Damiano Baldonit në tregtinë ndërkombëtare të mobilieve. Punojmë vetëm me kompani që prodhojnë me sukses prej dekadash, në Itali dhe jashtë saj, dhe i vëmë në shërbim të atyre që ndërtojnë dhe mobilojnë jashtë Italisë.",
+      "Çdo kërkesë është një kërkim i personalizuar: prodhuesi i duhur, produkti unik, çmimi konkurrues. Pastaj qëndrojmë pranë klientit deri në dorëzim."
+    ],
+    "pillars": [
+      {
+        "title": "Përzgjedhje e rreptë",
+        "text": "Vetëm prodhues me dekada histori dhe cilësi të provuar."
+      },
+      {
+        "title": "Kërkim me porosi",
+        "text": "Produkti i duhur për projektin, jo më i lehti për t’u shitur."
+      },
+      {
+        "title": "Prani në vend",
+        "text": "Një zyrë në Baku për të ndjekur nga afër klientët, dorëzimet dhe kantieret."
+      }
+    ]
+  },
+  "audience": {
+    "eyebrow": "Për kë punojmë",
+    "title": "Një partner i vetëm, katër mënyra për të punuar së bashku.",
+    "items": [
+      {
+        "title": "Arkitektë dhe dizajnerë interieri",
+        "text": "Një pikë kontakti e vetme për marka italiane, kampione dhe rifinitura me porosi."
+      },
+      {
+        "title": "Hotele dhe zhvillues",
+        "text": "Furnizime të plota kontrakt për hotele, rezidenca dhe zyra, në kohë dhe brenda buxhetit."
+      },
+      {
+        "title": "Rishitës dhe importues",
+        "text": "Qasje e drejtpërdrejtë te prodhues italianë të përzgjedhur për tregun tuaj."
+      },
+      {
+        "title": "Rezidenca private",
+        "text": "Vila dhe apartamente të mobiluara me më të mirën e Made in Italy, me çelësa në dorë."
+      }
+    ]
+  },
+  "method": {
+    "eyebrow": "Metoda jonë",
+    "titleStart": "Nga skica e parë ",
+    "titleEmphasis": "te dorëzimi i fundit.",
+    "steps": [
+      {
+        "title": "Dëgjimi",
+        "text": "Studiojmë projektin, stilin dhe buxhetin me ju ose me arkitektin tuaj."
+      },
+      {
+        "title": "Përzgjedhja",
+        "text": "Identifikojmë prodhuesit më të përshtatshëm dhe përgatisim propozime, kampione dhe oferta."
+      },
+      {
+        "title": "Koordinimi",
+        "text": "Menaxhojmë porositë, prodhimin, kontrollin e cilësisë dhe dërgesën nga Italia."
+      },
+      {
+        "title": "Dorëzimi",
+        "text": "Ndjekim mbërritjen dhe montimin në vend, me mbështetjen e zyrës sonë në Baku."
+      }
+    ]
+  },
+  "supply": {
+    "eyebrow": "Çfarë furnizojmë",
+    "title": "Gjithçka që i duhet një projekti, nën një drejtim të vetëm.",
+    "categories": {
+      "kitchens": "Kuzhina",
+      "lighting": "Ndriçim",
+      "sofas": "Divane dhe mobilie të veshura",
+      "furniture": "Mobilie, nga klasikja te bashkëkohorja",
+      "surfaces": "Parket, mermer dhe qeramikë",
+      "doorsWindows": "Dyer dhe dritare",
+      "acoustic": "Panele akustike & kontrakt",
+      "metal": "Veshje metalike dhe struktura zyrash"
+    }
+  },
+  "partners": {
+    "eyebrow": "Prodhuesit",
+    "title": "Kompani që prodhojnë me sukses prej dekadash.",
+    "note": "Një përzgjedhje e markave italiane me të cilat punojmë, sipas kategorive.",
+    "groups": {
+      "kitchens": "Kuzhina",
+      "lighting": "Ndriçim",
+      "sofas": "Divane",
+      "furniture": "Mobilie",
+      "doors": "Dyer",
+      "safes": "Kasaforta dhe aksesorë",
+      "metal": "Veshje metalike",
+      "acoustic": "Panele akustike"
+    }
+  },
+  "projects": {
+    "eyebrow": "Projekte",
+    "title": "Disa projekte të dorëzuara.",
+    "note": "Shembuj ilustrues: këtu do të vendosen fotot dhe të dhënat e projekteve reale.",
+    "sample": "Shembull",
+    "items": [
+      {
+        "place": "Baku, Azerbajxhan",
+        "title": "Hotel butik",
+        "scope": "Dhoma, lobi dhe ndriçim"
+      },
+      {
+        "place": "Gjiri Persik",
+        "title": "Resort dhe rezidenca",
+        "scope": "Mobilie të jashtme dhe të veshura"
+      },
+      {
+        "place": "Mali i Zi",
+        "title": "Vilë buzë detit",
+        "scope": "Mobilim i plotë dhe dritare"
+      },
+      {
+        "place": "Tiranë, Shqipëri",
+        "title": "Zyra drejtuese",
+        "scope": "Panele akustike dhe struktura"
+      }
+    ]
+  },
+  "where": {
+    "eyebrow": "Ku operojmë",
+    "titleStart": "Nga Italia drejt ",
+    "titleEmphasis": "tregjeve në rritje.",
+    "text": "Nga selia në Fano koordinojmë furnizime drejt Ballkanit, Kaukazit dhe Lindjes së Mesme. Në Baku, zyra jonë ndjek klientët dhe dorëzimet në vend.",
+    "headquarters": {
+      "label": "Selia qendrore",
+      "address": "Fano (PU), Marke — Itali"
+    },
+    "regionalOffice": {
+      "label": "Zyra rajonale",
+      "floor": "kati i 14-të"
+    }
+  },
+  "founder": {
+    "eyebrow": "Themeluesi",
+    "quote": "Nuk shes thjesht mobilie: gjej prodhuesin e duhur për çdo projekt dhe mbaj përgjegjësi personalisht deri në dorëzimin e fundit.",
+    "name": "Damiano Baldoni",
+    "role": "Themelues & CEO",
+    "portraitPlaceholder": "Portreti do të shtohet"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "titleStart": "Na tregoni ",
+    "titleEmphasis": "për projektin tuaj.",
+    "lead": "Ju përgjigjemi personalisht, zakonisht brenda një dite pune.",
+    "form": {
+      "name": "Emri dhe mbiemri",
+      "company": "Kompania",
+      "email": "Email",
+      "phone": "Telefoni",
+      "projectType": "Lloji i projektit",
+      "projectTypes": [
+        "Hotel / kontrakt",
+        "Rezidencë private",
+        "Rishitje / import",
+        "Studio arkitekture",
+        "Tjetër"
+      ],
+      "message": "Projekti juaj",
+      "messagePlaceholder": "Lloji, sipërfaqja, afatet, vendi i destinacionit…",
+      "privacy": "Kam lexuar politikën e privatësisë.",
+      "submit": "Dërgo kërkesën",
+      "sending": "Po dërgohet…",
+      "sent": "Faleminderit, e morëm kërkesën tuaj. Do t’ju përgjigjemi së shpejti.",
+      "error": "Dërgimi dështoi. Provoni përsëri ose na shkruani në info@operatrade.it.",
+      "required": "Plotësoni emrin, email-in dhe mesazhin dhe pranoni politikën e privatësisë."
+    },
+    "direct": {
+      "title": "Ose drejtpërdrejt",
+      "whatsapp": "Na shkruani në WhatsApp"
+    }
+  },
+  "footer": {
+    "tagline": "Mobilie italiane & kontrakt për projekte ndërkombëtare.",
+    "rights": "Të gjitha të drejtat e rezervuara",
+    "privacy": "Privatësia",
+    "cookies": "Cookies"
+  }
+}

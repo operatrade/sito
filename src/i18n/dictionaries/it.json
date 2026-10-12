@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "title": "Opera Trade — Arredo e contract italiano per progetti internazionali",
+    "description": "Mettiamo in contatto architetti, hotel e committenti internazionali con le migliori manifatture italiane d’arredo. E seguiamo ogni fornitura, dalla scelta del prodotto alla posa."
+  },
+  "draft": {
+    "ribbon": "Anteprima del nuovo sito — foto, numeri, progetti e citazione sono provvisori.",
+    "quoteNote": "Citazione di esempio, da scrivere e approvare con Damiano."
+  },
+  "nav": {
+    "about": "Chi siamo",
+    "method": "Metodo",
+    "supply": "Forniture",
+    "partners": "Partner",
+    "projects": "Progetti",
+    "contact": "Contatti",
+    "cta": "Parliamo del progetto",
+    "menu": "Menu",
+    "close": "Chiudi",
+    "language": "Lingua",
+    "main": "Navigazione principale"
+  },
+  "hero": {
+    "eyebrow": "Arredo e contract italiano",
+    "titleStart": "Il saper fare italiano, ",
+    "titleEmphasis": "consegnato ovunque.",
+    "lead": "Mettiamo in contatto architetti, hotel e committenti internazionali con le migliori manifatture italiane d’arredo. E seguiamo ogni fornitura, dalla scelta del prodotto alla posa.",
+    "primaryCta": "Parliamo del tuo progetto",
+    "secondaryCta": "Le manifatture",
+    "badge": "manifatture italiane selezionate",
+    "caption": "Residenza privata · esempio"
+  },
+  "places": {
+    "fano": "Fano",
+    "baku": "Baku",
+    "tirana": "Tirana",
+    "podgorica": "Podgorica",
+    "middleEast": "Medio Oriente"
+  },
+  "map": {
+    "label": "Mappa: da Fano verso Balcani, Baku e Medio Oriente",
+    "office": "Ufficio",
+    "balkans": "Balcani",
+    "mediterranean": "Mar Mediterraneo",
+    "blackSea": "Mar Nero",
+    "caspianSea": "Mar Caspio"
+  },
+  "stats": {
+    "years": "anni di esperienza nel commercio d’arredo",
+    "brands": "manifatture italiane partner",
+    "categories": "categorie di prodotto, da un’unica regia",
+    "offices": "sedi operative, a Fano e a Baku"
+  },
+  "about": {
+    "eyebrow": "Chi siamo",
+    "title": "Un ponte tra le manifatture italiane e i grandi progetti internazionali.",
+    "paragraphs": [
+      "Opera Trade nasce dall’esperienza di Damiano Baldoni nel commercio internazionale dell’arredo. Lavoriamo solo con aziende che producono con successo da decenni, in Italia e all’estero, e le mettiamo al servizio di chi costruisce e arreda fuori dall’Italia.",
+      "Ogni richiesta è una ricerca su misura: il produttore giusto, il prodotto unico, il prezzo competitivo. Poi restiamo accanto al cliente fino alla consegna."
+    ],
+    "pillars": [
+      {
+        "title": "Selezione rigorosa",
+        "text": "Solo manifatture con decenni di storia e qualità comprovata."
+      },
+      {
+        "title": "Ricerca su misura",
+        "text": "Il prodotto giusto per il progetto, non il più comodo da vendere."
+      },
+      {
+        "title": "Presenza sul posto",
+        "text": "Un ufficio a Baku per seguire clienti, consegne e cantieri da vicino."
+      }
+    ]
+  },
+  "audience": {
+    "eyebrow": "Per chi lavoriamo",
+    "title": "Un solo interlocutore, quattro modi di lavorare insieme.",
+    "items": [
+      {
+        "title": "Architetti e interior designer",
+        "text": "Un referente unico per specificare marchi italiani, campionature e finiture su misura."
+      },
+      {
+        "title": "Hotel e sviluppatori",
+        "text": "Forniture contract complete per hotel, residence e uffici, con tempi e budget sotto controllo."
+      },
+      {
+        "title": "Rivenditori e importatori",
+        "text": "Accesso diretto a manifatture italiane selezionate da portare nel tuo mercato."
+      },
+      {
+        "title": "Residenze private",
+        "text": "Ville e appartamenti arredati con il meglio del made in Italy, chiavi in mano."
+      }
+    ]
+  },
+  "method": {
+    "eyebrow": "Il metodo",
+    "titleStart": "Dal primo disegno ",
+    "titleEmphasis": "all’ultima consegna.",
+    "steps": [
+      {
+        "title": "Ascolto",
+        "text": "Studiamo il progetto, lo stile e il budget con te o con il tuo architetto."
+      },
+      {
+        "title": "Selezione",
+        "text": "Individuiamo le manifatture più adatte e prepariamo proposte, campioni e preventivi."
+      },
+      {
+        "title": "Coordinamento",
+        "text": "Gestiamo ordini, produzione, controllo qualità e spedizione dall’Italia."
+      },
+      {
+        "title": "Consegna",
+        "text": "Seguiamo arrivo e montaggio sul posto, con il supporto del nostro ufficio di Baku."
+      }
+    ]
+  },
+  "supply": {
+    "eyebrow": "Cosa forniamo",
+    "title": "Tutto ciò che serve a un progetto, con un’unica regia.",
+    "categories": {
+      "kitchens": "Cucine",
+      "lighting": "Illuminazione",
+      "sofas": "Divani e imbottiti",
+      "furniture": "Arredo, dal classico al contemporaneo",
+      "surfaces": "Parquet, marmi e ceramiche",
+      "doorsWindows": "Porte e finestre",
+      "acoustic": "Pannelli acustici e contract",
+      "metal": "Rivestimenti metallici e strutture per uffici"
+    }
+  },
+  "partners": {
+    "eyebrow": "Le manifatture",
+    "title": "Aziende che producono con successo da decenni.",
+    "note": "Una selezione dei marchi italiani con cui lavoriamo, organizzati per categoria.",
+    "groups": {
+      "kitchens": "Cucine",
+      "lighting": "Illuminazione",
+      "sofas": "Divani",
+      "furniture": "Arredo",
+      "doors": "Porte",
+      "safes": "Casseforti e accessori",
+      "metal": "Rivestimenti metallici",
+      "acoustic": "Pannelli acustici"
+    }
+  },
+  "projects": {
+    "eyebrow": "Progetti",
+    "title": "Alcuni lavori consegnati.",
+    "note": "Esempi illustrativi: qui andranno le foto e i dati dei progetti reali.",
+    "sample": "Esempio",
+    "items": [
+      {
+        "place": "Baku, Azerbaigian",
+        "title": "Boutique hotel",
+        "scope": "Camere, lobby e illuminazione"
+      },
+      {
+        "place": "Golfo Persico",
+        "title": "Resort e residenze",
+        "scope": "Arredo outdoor e imbottiti"
+      },
+      {
+        "place": "Montenegro",
+        "title": "Villa sul mare",
+        "scope": "Arredo completo e serramenti"
+      },
+      {
+        "place": "Tirana, Albania",
+        "title": "Uffici direzionali",
+        "scope": "Pannelli acustici e strutture"
+      }
+    ]
+  },
+  "where": {
+    "eyebrow": "Dove operiamo",
+    "titleStart": "Dall’Italia ai mercati ",
+    "titleEmphasis": "che crescono.",
+    "text": "Dalla sede di Fano coordiniamo forniture verso i Balcani, il Caucaso e il Medio Oriente. A Baku, il nostro ufficio segue clienti e consegne sul posto.",
+    "headquarters": {
+      "label": "Sede principale",
+      "address": "Fano (PU), Marche — Italia"
+    },
+    "regionalOffice": {
+      "label": "Ufficio regionale",
+      "floor": "14° piano"
+    }
+  },
+  "founder": {
+    "eyebrow": "Il fondatore",
+    "quote": "Non vendo semplicemente mobili: trovo la manifattura giusta per ogni progetto, e ci metto la faccia fino all’ultima consegna.",
+    "name": "Damiano Baldoni",
+    "role": "Fondatore e CEO",
+    "portraitPlaceholder": "Ritratto da inserire"
+  },
+  "contact": {
+    "eyebrow": "Contatti",
+    "titleStart": "Raccontaci ",
+    "titleEmphasis": "il tuo progetto.",
+    "lead": "Ti rispondiamo personalmente, di solito entro un giorno lavorativo.",
+    "form": {
+      "name": "Nome e cognome",
+      "company": "Azienda",
+      "email": "Email",
+      "phone": "Telefono",
+      "projectType": "Tipo di progetto",
+      "projectTypes": [
+        "Hotel / contract",
+        "Residenza privata",
+        "Rivendita / importazione",
+        "Studio di architettura",
+        "Altro"
+      ],
+      "message": "Il tuo progetto",
+      "messagePlaceholder": "Tipologia, metri quadri, tempi, Paese di destinazione…",
+      "privacy": "Ho letto l’informativa sulla privacy.",
+      "submit": "Invia la richiesta",
+      "sending": "Invio in corso…",
+      "sent": "Grazie, abbiamo ricevuto la tua richiesta. Ti risponderemo a breve.",
+      "error": "Invio non riuscito. Riprova o scrivici a info@operatrade.it.",
+      "required": "Compila nome, email e messaggio e accetta l’informativa privacy."
+    },
+    "direct": {
+      "title": "Oppure, direttamente",
+      "whatsapp": "Scrivici su WhatsApp"
+    }
+  },
+  "footer": {
+    "tagline": "Arredo e contract italiano per progetti internazionali.",
+    "rights": "Tutti i diritti riservati",
+    "privacy": "Privacy",
+    "cookies": "Cookie"
+  }
+}
