@@ -24,6 +24,8 @@ export const site = {
   whatsapp: "https://wa.me/393338143526",
   emails: { info: "info@operatrade.it", ceo: "damiano.baldoni@operatrade.it" },
   vatNumber: "IT02553120417",
+  /** Damiano's private management area (invoices, deadlines): the "Login" link in the header. */
+  managementUrl: "https://gestionale.operatrade.it",
 } as const;
 
 // Placeholder figures: confirm with Damiano before going live.

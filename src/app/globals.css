@@ -51,11 +51,15 @@ p{margin:0 0 1.1em;color:var(--ink-2)}
 .logo-word{display:flex;flex-direction:column;line-height:1}
 .logo-word b{font-family:var(--serif);font-weight:500;font-size:1.32rem;letter-spacing:.2em}
 .logo-word small{font-size:.56rem;letter-spacing:.42em;color:var(--muted);margin-top:5px;font-weight:600}
-.nav{display:flex;align-items:center;gap:30px}
-.nav a{font-size:.84rem;font-weight:500;text-decoration:none;color:var(--ink-2);position:relative;padding:4px 0}
+.nav{display:flex;align-items:center;gap:22px}
+.nav a{white-space:nowrap;font-size:.84rem;font-weight:500;text-decoration:none;color:var(--ink-2);position:relative;padding:4px 0}
 .nav a::after{content:"";position:absolute;left:0;right:100%;bottom:-2px;height:1px;background:var(--bronze);transition:right .35s var(--ease)}
 .nav a:hover::after{right:0}
-.header-tools{display:flex;align-items:center;gap:18px}
+.header-tools{display:flex;align-items:center;gap:14px}
+.header-tools .btn,.logo-word b{white-space:nowrap}
+.login-link{white-space:nowrap;display:inline-flex;align-items:center;gap:7px;text-decoration:none;font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding:6px 4px;transition:color .3s var(--ease)}
+.login-link svg{width:16px;height:16px;flex:none}
+.login-link:hover{color:var(--bronze)}
 .langs{display:flex;gap:2px}
 .langs a{text-decoration:none;cursor:pointer;font-size:.7rem;font-weight:700;letter-spacing:.1em;color:var(--muted);padding:6px 6px;border-radius:2px}
 .langs a[aria-current="true"]{color:var(--ink);box-shadow:inset 0 -1px 0 var(--bronze)}
@@ -76,6 +80,7 @@ p{margin:0 0 1.1em;color:var(--ink-2)}
 .mobile-menu nav a{font-family:var(--serif);font-size:2.1rem;text-decoration:none;padding:4px 0;border-bottom:1px solid var(--line)}
 .mobile-menu .langs{margin-top:28px}
 .mobile-menu .langs a{font-size:.85rem;padding:10px 10px}
+.mobile-menu .mobile-login{margin-top:auto;align-self:flex-start;font-size:.8rem;padding:12px 0}
 
 /* ---------- hero ---------- */
 .hero{padding:48px 0 96px;position:relative}
@@ -273,9 +278,14 @@ blockquote{margin:0}
 }
 
 /* ---------- responsive ---------- */
-@media (max-width:1080px){
+/* The full bar needs about 1.130 px of content (Russian is the longest): below that, burger menu. */
+@media (max-width:1240px){
   .nav,.header-tools .langs,.header-tools .btn{display:none}
   .burger{display:inline-flex}
+  .header-tools .login-link{width:44px;height:44px;justify-content:center;border:1px solid var(--line);border-radius:50%;padding:0;color:var(--ink)}
+  .header-tools .login-link span{display:none}
+}
+@media (max-width:1080px){
   .hero-grid{grid-template-columns:1fr}
   .hero-visual{max-width:560px;margin:0 auto;width:100%}
   .aud-grid{grid-template-columns:repeat(2,1fr)}

@@ -26,7 +26,7 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
   return (
     <>
       {site.draft && <div className="ribbon">{dict.draft.ribbon}</div>}
-      <Header locale={locale} nav={dict.nav} />
+      <Header locale={locale} nav={dict.nav} loginUrl={site.managementUrl} />
       <main>
         <Hero t={dict.hero} places={dict.places} />
         <Stats t={dict.stats} />

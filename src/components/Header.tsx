@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { localeNames, locales, type Locale } from "@/i18n/config";
 import type { Dictionary } from "@/i18n/dictionaries";
+import { LockIcon } from "./Icons";
 import { Logo } from "./Logo";
 
 const sections = [
@@ -34,7 +35,7 @@ function LanguageLinks({ locale, label, onPick }: { locale: Locale; label: strin
   );
 }
 
-export function Header({ locale, nav }: { locale: Locale; nav: Dictionary["nav"] }) {
+export function Header({ locale, nav, loginUrl }: { locale: Locale; nav: Dictionary["nav"]; loginUrl: string }) {
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -60,13 +61,18 @@ export function Header({ locale, nav }: { locale: Locale; nav: Dictionary["nav"]
         <div className="wrap header-row">
           <Logo href="#top" />
           <nav className="nav" aria-label={nav.main}>
-            {sections.map((s) => (
+            {/* "Contact" is the button on the right: listing it here too would only crowd the bar. */}
+            {sections.filter((s) => s.id !== "contact").map((s) => (
               <a key={s.id} href={`#${s.id}`}>
                 {nav[s.key]}
               </a>
             ))}
           </nav>
           <div className="header-tools">
+            <a className="login-link" href={loginUrl} aria-label={nav.login}>
+              <LockIcon />
+              <span>{nav.login}</span>
+            </a>
             <LanguageLinks locale={locale} label={nav.language} />
             <a className="btn btn-sm" href="#contact">
               {nav.cta}
@@ -97,6 +103,10 @@ export function Header({ locale, nav }: { locale: Locale; nav: Dictionary["nav"]
           ))}
         </nav>
         <LanguageLinks locale={locale} label={nav.language} onPick={close} />
+        <a className="login-link mobile-login" href={loginUrl}>
+          <LockIcon />
+          <span>{nav.login}</span>
+        </a>
       </div>
     </>
   );
