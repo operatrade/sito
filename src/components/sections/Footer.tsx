@@ -5,10 +5,10 @@ import { Logo } from "../Logo";
 export function Footer({ t, nav }: { t: Dictionary["footer"]; nav: Dictionary["nav"] }) {
   const links = [
     ["about", nav.about],
-    ["partners", nav.partners],
+    ["sectors", nav.sectors],
     ["method", nav.method],
+    ["makers", nav.makers],
     ["projects", nav.projects],
-    ["supply", nav.supply],
     ["contact", nav.contact],
   ] as const;
   return (

@@ -15,7 +15,7 @@ export function Logo({ href }: { href: string }) {
       <ArchMark />
       <span className="logo-word">
         <b>OPERA TRADE</b>
-        <small>ITALIA · BAKU</small>
+        <small>FANO · ITALIA</small>
       </span>
     </a>
   );

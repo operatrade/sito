@@ -8,10 +8,10 @@ import { Footer } from "@/components/sections/Footer";
 import { Founder } from "@/components/sections/Founder";
 import { Hero } from "@/components/sections/Hero";
 import { Method } from "@/components/sections/Method";
-import { Partners } from "@/components/sections/Partners";
+import { Makers } from "@/components/sections/Makers";
 import { Projects } from "@/components/sections/Projects";
+import { Sectors } from "@/components/sections/Sectors";
 import { Stats } from "@/components/sections/Stats";
-import { Supply } from "@/components/sections/Supply";
 import { Where } from "@/components/sections/Where";
 import { site } from "@/content/site";
 import { notFound } from "next/navigation";
@@ -33,8 +33,8 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
         <About t={dict.about} />
         <Audience t={dict.audience} />
         <Method t={dict.method} />
-        <Supply t={dict.supply} />
-        <Partners t={dict.partners} />
+        <Sectors t={dict.sectors} />
+        <Makers t={dict.makers} />
         <Projects t={dict.projects} />
         <Where t={dict.where} map={dict.map} places={dict.places} />
         <Founder t={dict.founder} draftNote={dict.draft.quoteNote} />

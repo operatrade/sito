@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Opera Trade — Arredo e contract italiano per progetti internazionali",
-    "description": "Mettiamo in contatto architetti, hotel e committenti internazionali con le migliori manifatture italiane d’arredo. E seguiamo ogni fornitura, dalla scelta del prodotto alla posa."
+    "title": "Opera Trade — Arredo italiano per casa, ufficio, nautica, hotel e contract",
+    "description": "Dal piccolo artigiano al grande gruppo contract: troviamo il produttore italiano giusto per ogni progetto d’arredo e seguiamo la fornitura dalla scelta alla posa."
   },
   "draft": {
     "ribbon": "Anteprima del nuovo sito — foto, numeri, progetti e citazione sono provvisori.",
@@ -10,8 +10,8 @@
   "nav": {
     "about": "Chi siamo",
     "method": "Metodo",
-    "supply": "Forniture",
-    "partners": "Partner",
+    "sectors": "Settori",
+    "makers": "Produttori",
     "projects": "Progetti",
     "contact": "Contatti",
     "cta": "Parliamo del progetto",
@@ -21,55 +21,59 @@
     "main": "Navigazione principale"
   },
   "hero": {
-    "eyebrow": "Arredo e contract italiano",
+    "eyebrow": "Arredo italiano, in ogni settore",
     "titleStart": "Il saper fare italiano, ",
     "titleEmphasis": "consegnato ovunque.",
-    "lead": "Mettiamo in contatto architetti, hotel e committenti internazionali con le migliori manifatture italiane d’arredo. E seguiamo ogni fornitura, dalla scelta del prodotto alla posa.",
+    "lead": "Casa, ufficio, nautica, hotel e contract: troviamo il produttore italiano giusto per ogni progetto, dal piccolo artigiano al grande gruppo. E seguiamo la fornitura dalla scelta alla posa.",
     "primaryCta": "Parliamo del tuo progetto",
-    "secondaryCta": "Le manifatture",
-    "badge": "manifatture italiane selezionate",
+    "secondaryCta": "I settori",
+    "badge": "settori, dalla casa allo yacht",
     "caption": "Residenza privata · esempio"
   },
   "places": {
     "fano": "Fano",
-    "baku": "Baku",
     "tirana": "Tirana",
     "podgorica": "Podgorica",
+    "pristina": "Pristina",
+    "skopje": "Skopje",
+    "tbilisi": "Tbilisi",
+    "yerevan": "Yerevan",
+    "baku": "Baku",
     "middleEast": "Medio Oriente"
   },
   "map": {
-    "label": "Mappa: da Fano verso Balcani, Baku e Medio Oriente",
-    "office": "Ufficio",
+    "label": "Mappa: da Fano verso Balcani, Caucaso e Medio Oriente",
     "balkans": "Balcani",
+    "caucasus": "Caucaso",
     "mediterranean": "Mar Mediterraneo",
     "blackSea": "Mar Nero",
     "caspianSea": "Mar Caspio"
   },
   "stats": {
     "years": "anni di esperienza nel commercio d’arredo",
-    "brands": "manifatture italiane partner",
-    "categories": "categorie di prodotto, da un’unica regia",
-    "offices": "sedi operative, a Fano e a Baku"
+    "countries": "Paesi raggiunti con viaggi mirati",
+    "makers": "tipi di produttore, dall’artigiano al grande gruppo contract",
+    "contact": "unico referente, dalla scelta alla posa"
   },
   "about": {
     "eyebrow": "Chi siamo",
-    "title": "Un ponte tra le manifatture italiane e i grandi progetti internazionali.",
+    "title": "Un ponte tra il saper fare italiano e i progetti internazionali.",
     "paragraphs": [
-      "Opera Trade nasce dall’esperienza di Damiano Baldoni nel commercio internazionale dell’arredo. Lavoriamo solo con aziende che producono con successo da decenni, in Italia e all’estero, e le mettiamo al servizio di chi costruisce e arreda fuori dall’Italia.",
+      "Opera Trade nasce dall’esperienza di Damiano Baldoni nel commercio internazionale dell’arredo. Conosciamo ogni settore — casa, ufficio, nautica, hotel e contract — e ogni stile, dal classico al contemporaneo fino al su misura.",
       "Ogni richiesta è una ricerca su misura: il produttore giusto, il prodotto unico, il prezzo competitivo. Poi restiamo accanto al cliente fino alla consegna."
     ],
     "pillars": [
       {
-        "title": "Selezione rigorosa",
-        "text": "Solo manifatture con decenni di storia e qualità comprovata."
+        "title": "Ogni settore, ogni stile",
+        "text": "Competenze specifiche per la casa, l’ufficio, la nautica, l’hotellerie e il contract."
       },
       {
-        "title": "Ricerca su misura",
-        "text": "Il prodotto giusto per il progetto, non il più comodo da vendere."
+        "title": "Il produttore giusto",
+        "text": "Scelto per il progetto, dal piccolo artigiano al grande gruppo, non per comodità."
       },
       {
-        "title": "Presenza sul posto",
-        "text": "Un ufficio a Baku per seguire clienti, consegne e cantieri da vicino."
+        "title": "Presenza sul territorio",
+        "text": "Viaggi mirati per incontrare i clienti, visitare i cantieri e seguire le consegne."
       }
     ]
   },
@@ -114,80 +118,101 @@
       },
       {
         "title": "Consegna",
-        "text": "Seguiamo arrivo e montaggio sul posto, con il supporto del nostro ufficio di Baku."
+        "text": "Seguiamo arrivo e montaggio, con visite in cantiere quando il progetto lo richiede."
       }
     ]
   },
-  "supply": {
-    "eyebrow": "Cosa forniamo",
-    "title": "Tutto ciò che serve a un progetto, con un’unica regia.",
-    "categories": {
-      "kitchens": "Cucine",
-      "lighting": "Illuminazione",
-      "sofas": "Divani e imbottiti",
-      "furniture": "Arredo, dal classico al contemporaneo",
-      "surfaces": "Parquet, marmi e ceramiche",
-      "doorsWindows": "Porte e finestre",
-      "acoustic": "Pannelli acustici e contract",
-      "metal": "Rivestimenti metallici e strutture per uffici"
+  "sectors": {
+    "eyebrow": "Settori",
+    "title": "Competenze specifiche in ogni settore dell’arredo.",
+    "lead": "Classico, contemporaneo, design o su misura: per ogni ambiente sappiamo a chi rivolgerci.",
+    "items": {
+      "home": {
+        "title": "Casa",
+        "text": "Mobili, cucine, divani, illuminazione, pavimenti e rivestimenti per pareti"
+      },
+      "office": {
+        "title": "Ufficio",
+        "text": "Postazioni operative e direzionali, sale riunioni, pareti e pannelli acustici"
+      },
+      "yacht": {
+        "title": "Nautica e yacht",
+        "text": "Interni su misura per imbarcazioni: arredi, imbottiti, luci e finiture"
+      },
+      "hotel": {
+        "title": "Hotel",
+        "text": "Camere e suite, lobby, ristoranti e aree comuni"
+      },
+      "contract": {
+        "title": "Contract",
+        "text": "Residence, ristorazione, retail e grandi forniture su capitolato"
+      }
     }
   },
-  "partners": {
-    "eyebrow": "Le manifatture",
-    "title": "Aziende che producono con successo da decenni.",
-    "note": "Una selezione dei marchi italiani con cui lavoriamo, organizzati per categoria.",
-    "groups": {
-      "kitchens": "Cucine",
-      "lighting": "Illuminazione",
-      "sofas": "Divani",
-      "furniture": "Arredo",
-      "doors": "Porte",
-      "safes": "Casseforti e accessori",
-      "metal": "Rivestimenti metallici",
-      "acoustic": "Pannelli acustici"
-    }
+  "makers": {
+    "eyebrow": "Produttori",
+    "title": "Il produttore giusto, qualunque sia la richiesta.",
+    "note": "Non un catalogo di marchi, ma una rete costruita negli anni: per ogni progetto scegliamo chi può rispondere meglio, per qualità, tempi e budget.",
+    "scaleStart": "Su misura",
+    "scaleEnd": "Grandi volumi",
+    "items": [
+      {
+        "title": "Prototipista e piccolo artigiano",
+        "text": "Produzioni di nicchia, su misura e su disegno del cliente."
+      },
+      {
+        "title": "Azienda familiare",
+        "text": "Seria e flessibile, con cura del dettaglio anche su piccoli numeri."
+      },
+      {
+        "title": "Brand internazionale",
+        "text": "Collezioni riconosciute nel mondo e un servizio strutturato."
+      },
+      {
+        "title": "Grande gruppo contract",
+        "text": "Capacità produttiva e organizzazione per le richieste più diverse."
+      }
+    ]
   },
   "projects": {
     "eyebrow": "Progetti",
-    "title": "Alcuni lavori consegnati.",
-    "note": "Esempi illustrativi: qui andranno le foto e i dati dei progetti reali.",
+    "title": "Dal disegno alla posa.",
+    "note": "Immagini di repertorio: qui andranno i render dei progetti seguiti da Opera Trade.",
     "sample": "Esempio",
-    "items": [
-      {
-        "place": "Baku, Azerbaigian",
-        "title": "Boutique hotel",
-        "scope": "Camere, lobby e illuminazione"
-      },
-      {
-        "place": "Golfo Persico",
-        "title": "Resort e residenze",
-        "scope": "Arredo outdoor e imbottiti"
-      },
-      {
-        "place": "Montenegro",
-        "title": "Villa sul mare",
-        "scope": "Arredo completo e serramenti"
-      },
-      {
-        "place": "Tirana, Albania",
-        "title": "Uffici direzionali",
-        "scope": "Pannelli acustici e strutture"
-      }
-    ]
+    "render": "Render",
+    "captions": {
+      "kitchen": "Cucine su misura",
+      "drawings": "Disegni tecnici condivisi con progettisti e produttori",
+      "materials": "Campionari di materiali a confronto",
+      "kitchenWhite": "Cucine e living",
+      "finishes": "La scelta delle finiture"
+    }
   },
   "where": {
     "eyebrow": "Dove operiamo",
     "titleStart": "Dall’Italia ai mercati ",
     "titleEmphasis": "che crescono.",
-    "text": "Dalla sede di Fano coordiniamo forniture verso i Balcani, il Caucaso e il Medio Oriente. A Baku, il nostro ufficio segue clienti e consegne sul posto.",
+    "text": "Dalla sede di Fano coordiniamo forniture verso i Balcani, il Caucaso e il Medio Oriente. E andiamo sul posto quando serve: incontri con i clienti, visite ai cantieri, consegne seguite da vicino.",
     "headquarters": {
       "label": "Sede principale",
       "address": "Fano (PU), Marche — Italia"
     },
-    "regionalOffice": {
-      "label": "Ufficio regionale",
-      "floor": "14° piano"
-    }
+    "territory": {
+      "label": "Presenza sul territorio",
+      "title": "Viaggi mirati",
+      "text": "Incontriamo i clienti, visitiamo i cantieri e seguiamo le consegne di persona."
+    },
+    "destinationsLabel": "Dove ci trovi spesso",
+    "destinations": [
+      "Tirana, Albania",
+      "Podgorica, Montenegro",
+      "Pristina, Kosovo",
+      "Skopje, Macedonia del Nord",
+      "Tbilisi, Georgia",
+      "Yerevan, Armenia",
+      "Baku, Azerbaigian",
+      "Medio Oriente"
+    ]
   },
   "founder": {
     "eyebrow": "Il fondatore",
@@ -210,6 +235,8 @@
       "projectTypes": [
         "Hotel / contract",
         "Residenza privata",
+        "Ufficio",
+        "Nautica / yacht",
         "Rivendita / importazione",
         "Studio di architettura",
         "Altro"
@@ -229,7 +256,7 @@
     }
   },
   "footer": {
-    "tagline": "Arredo e contract italiano per progetti internazionali.",
+    "tagline": "Arredo italiano per casa, ufficio, nautica, hotel e contract.",
     "rights": "Tutti i diritti riservati",
     "privacy": "Privacy",
     "cookies": "Cookie"

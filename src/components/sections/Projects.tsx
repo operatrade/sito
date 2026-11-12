@@ -1,9 +1,13 @@
 import Image from "next/image";
-import { projectPhotos, site } from "@/content/site";
+import { gallery, site } from "@/content/site";
 import type { Dictionary } from "@/i18n/dictionaries";
 
-// Wide, narrow, narrow, wide: matches the 7/5/5/7 column spans in globals.css.
-const sizes = ["(max-width: 720px) 92vw, 680px", "(max-width: 720px) 92vw, 480px"];
+// Column spans live in globals.css (.shot-wide 7, .shot-narrow 5, .shot-third 4 of 12).
+const sizes = {
+  wide: "(max-width: 720px) 92vw, 720px",
+  narrow: "(max-width: 720px) 92vw, 520px",
+  third: "(max-width: 720px) 92vw, 400px",
+} as const;
 
 export function Projects({ t }: { t: Dictionary["projects"] }) {
   return (
@@ -16,27 +20,19 @@ export function Projects({ t }: { t: Dictionary["projects"] }) {
           </div>
           {site.draft && <p>{t.note}</p>}
         </div>
-        <div className="proj-grid">
-          {t.items.map((project, i) => (
-            <article className="proj reveal" key={project.title}>
-              <figure className="proj-media">
-                <Image
-                  src={projectPhotos[i]}
-                  alt=""
-                  fill
-                  sizes={sizes[i === 0 || i === 3 ? 0 : 1]}
-                  placeholder="blur"
-                />
-                {site.draft && <span className="tag">{t.sample}</span>}
-              </figure>
-              <div className="proj-meta">
-                <div>
-                  <small>{project.place}</small>
-                  <h3>{project.title}</h3>
-                </div>
-                <p>{project.scope}</p>
+        <div className="gallery">
+          {gallery.map((item) => (
+            <figure className={`shot shot-${item.size} reveal`} key={item.key}>
+              <div className="shot-media">
+                <Image src={item.photo} alt="" fill sizes={sizes[item.size]} placeholder="blur" />
+                {item.render ? (
+                  <span className="tag">{t.render}</span>
+                ) : (
+                  site.draft && <span className="tag">{t.sample}</span>
+                )}
               </div>
-            </article>
+              <figcaption>{t.captions[item.key]}</figcaption>
+            </figure>
           ))}
         </div>
       </div>

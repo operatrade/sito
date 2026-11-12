@@ -1,22 +1,26 @@
 # Foto di esempio
 
-Tutte le foto in questa cartella sono **provvisorie**: vengono da [Unsplash](https://unsplash.com) (licenza Unsplash, uso gratuito anche commerciale, attribuzione non richiesta) e vanno sostituite con foto dei progetti di Opera Trade.
-Per sostituirne una basta salvare la nuova foto con lo stesso nome di file.
+Tutte le foto in questa cartella sono **provvisorie** e libere da diritti anche per uso commerciale, senza obbligo di citare l'autore:
+
+- quelle da [Unsplash](https://unsplash.com) con la [licenza Unsplash](https://unsplash.com/license);
+- quelle da [Pexels](https://www.pexels.com) con la [licenza Pexels](https://www.pexels.com/license/).
+
+Vanno sostituite con i render dei progetti seguiti da Opera Trade. Per sostituirne una basta salvare la nuova immagine con lo stesso nome di file; per aggiungerne una alla galleria dei progetti, vedi `gallery` in `src/content/site.ts`.
+
+Non si usano immagini prese dai siti dei produttori senza il loro permesso scritto.
 
 | File | Uso | Foto originale |
 |---|---|---|
 | `hero-living.jpg` | Apertura, foto grande ad arco | https://images.unsplash.com/photo-1564078516393-cf04bd966897 |
 | `hero-pendants.jpg` | Apertura, foto piccola | https://images.unsplash.com/photo-1540932239986-30128078f3c5 |
 | `about-living.jpg` | Chi siamo | https://images.unsplash.com/photo-1618221195710-dd6b41faaea6 |
-| `supply-kitchens.jpg` | Forniture: cucine | https://images.unsplash.com/photo-1565538810643-b5bdb714032a |
-| `supply-lighting.jpg` | Forniture: illuminazione | https://images.unsplash.com/photo-1615529182904-14819c35db37 |
-| `supply-sofas.jpg` | Forniture: divani e imbottiti | https://images.unsplash.com/photo-1555041469-a586c61ea9bc |
-| `supply-furniture.jpg` | Forniture: arredo | https://images.unsplash.com/photo-1618219740975-d40978bb7378 |
-| `supply-surfaces.jpg` | Forniture: parquet, marmi, ceramiche | https://images.unsplash.com/photo-1620626011761-996317b8d101 |
-| `supply-doors-windows.jpg` | Forniture: porte e finestre | https://images.unsplash.com/photo-1600210491892-03d54c0aaf87 |
-| `supply-acoustic.jpg` | Forniture: pannelli acustici | https://images.unsplash.com/photo-1524758631624-e2822e304c36 |
-| `supply-metal.jpg` | Forniture: rivestimenti metallici | https://images.unsplash.com/photo-1600585154526-990dced4db0d |
-| `project-baku-hotel.jpg` | Progetto di esempio 1 | https://images.unsplash.com/photo-1590490360182-c33d57733427 |
-| `project-gulf-resort.jpg` | Progetto di esempio 2 | https://images.unsplash.com/photo-1551882547-ff40c63fe5fa |
-| `project-montenegro-villa.jpg` | Progetto di esempio 3 | https://images.unsplash.com/photo-1613490493576-7fde63acd811 |
-| `project-tirana-offices.jpg` | Progetto di esempio 4 | https://images.unsplash.com/photo-1497366216548-37526070297c |
+| `sector-home.jpg` | Settori: casa | https://images.unsplash.com/photo-1618219740975-d40978bb7378 |
+| `sector-office.jpg` | Settori: ufficio | https://images.unsplash.com/photo-1524758631624-e2822e304c36 |
+| `sector-yacht.jpg` | Settori: nautica e yacht | https://www.pexels.com/photo/interior-of-modern-yacht-with-cozy-couch-6510311/ |
+| `sector-hotel.jpg` | Settori: hotel | https://images.unsplash.com/photo-1590490360182-c33d57733427 |
+| `sector-contract.jpg` | Settori: contract | https://images.unsplash.com/photo-1551882547-ff40c63fe5fa |
+| `work-kitchen.jpg` | Progetti: cucina | https://www.pexels.com/photo/stylish-interior-of-modern-kitchen-with-dining-counter-7018826/ |
+| `work-drawings.jpg` | Progetti: disegni tecnici | https://www.pexels.com/photo/group-of-colleagues-discussing-engineering-plan-on-papers-at-table-5324965/ |
+| `work-materials.jpg` | Progetti: campionari | https://www.pexels.com/photo/different-textures-of-fabrics-6580549/ |
+| `work-kitchen-white.jpg` | Progetti: cucina | https://images.unsplash.com/photo-1565538810643-b5bdb714032a |
+| `work-finishes.jpg` | Progetti: scelta delle finiture | https://www.pexels.com/photo/woman-holding-colorful-paper-and-pieces-of-fabric-4968676/ |

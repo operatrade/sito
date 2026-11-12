@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Opera Trade — Italian furniture & contract for international projects",
-    "description": "We connect architects, hotels and international clients with Italy’s finest furniture manufacturers — and we follow every order, from product selection to installation."
+    "title": "Opera Trade — Italian furniture for homes, offices, yachts, hotels & contract",
+    "description": "From small artisan workshops to major contract groups: we find the right Italian manufacturer for every furnishing project and follow the order from selection to installation."
   },
   "draft": {
     "ribbon": "New website preview — photos, figures, projects and quote are provisional.",
@@ -10,8 +10,8 @@
   "nav": {
     "about": "About",
     "method": "Method",
-    "supply": "Supplies",
-    "partners": "Partners",
+    "sectors": "Sectors",
+    "makers": "Manufacturers",
     "projects": "Projects",
     "contact": "Contact",
     "cta": "Discuss your project",
@@ -21,55 +21,59 @@
     "main": "Main navigation"
   },
   "hero": {
-    "eyebrow": "Italian furniture & contract",
+    "eyebrow": "Italian furniture, in every sector",
     "titleStart": "Italian craftsmanship, ",
     "titleEmphasis": "delivered anywhere.",
-    "lead": "We connect architects, hotels and international clients with Italy’s finest furniture manufacturers — and we follow every order, from product selection to installation.",
+    "lead": "Homes, offices, yachts, hotels and contract: we find the right Italian manufacturer for every project, from the small artisan to the major group — and follow the order from selection to installation.",
     "primaryCta": "Tell us about your project",
-    "secondaryCta": "Our manufacturers",
-    "badge": "selected Italian manufacturers",
+    "secondaryCta": "Our sectors",
+    "badge": "sectors, from homes to yachts",
     "caption": "Private residence · sample"
   },
   "places": {
     "fano": "Fano",
-    "baku": "Baku",
     "tirana": "Tirana",
     "podgorica": "Podgorica",
+    "pristina": "Pristina",
+    "skopje": "Skopje",
+    "tbilisi": "Tbilisi",
+    "yerevan": "Yerevan",
+    "baku": "Baku",
     "middleEast": "Middle East"
   },
   "map": {
-    "label": "Map: from Fano to the Balkans, Baku and the Middle East",
-    "office": "Office",
+    "label": "Map: from Fano to the Balkans, the Caucasus and the Middle East",
     "balkans": "Balkans",
+    "caucasus": "Caucasus",
     "mediterranean": "Mediterranean Sea",
     "blackSea": "Black Sea",
     "caspianSea": "Caspian Sea"
   },
   "stats": {
     "years": "years of experience in the furniture trade",
-    "brands": "Italian partner manufacturers",
-    "categories": "product categories, one point of contact",
-    "offices": "offices, in Fano and Baku"
+    "countries": "countries reached with targeted trips",
+    "makers": "kinds of manufacturer, from artisan to contract group",
+    "contact": "single point of contact, from selection to installation"
   },
   "about": {
     "eyebrow": "About us",
-    "title": "A bridge between Italian manufacturers and major international projects.",
+    "title": "A bridge between Italian craftsmanship and international projects.",
     "paragraphs": [
-      "Opera Trade is built on Damiano Baldoni’s long experience in the international furniture trade. We work only with companies that have been producing successfully for decades, in Italy and abroad, and put them at the service of those who build and furnish beyond Italy.",
+      "Opera Trade is built on Damiano Baldoni’s experience in the international furniture trade. We know every sector — homes, offices, yachts, hotels and contract — and every style, from classic to contemporary to fully bespoke.",
       "Every request is a tailored search: the right manufacturer, the unique product, the competitive price. Then we stay at our client’s side until delivery."
     ],
     "pillars": [
       {
-        "title": "Rigorous selection",
-        "text": "Only manufacturers with decades of history and proven quality."
+        "title": "Every sector, every style",
+        "text": "Specific expertise for homes, offices, yachts, hospitality and contract."
       },
       {
-        "title": "Tailored sourcing",
-        "text": "The right product for the project, not the easiest one to sell."
+        "title": "The right manufacturer",
+        "text": "Chosen for the project, from the small artisan to the major group — not for convenience."
       },
       {
-        "title": "On-site presence",
-        "text": "An office in Baku to follow clients, deliveries and sites up close."
+        "title": "Presence on the ground",
+        "text": "Targeted trips to meet clients, visit sites and follow deliveries."
       }
     ]
   },
@@ -114,80 +118,101 @@
       },
       {
         "title": "Delivery",
-        "text": "We oversee arrival and installation on site, supported by our Baku office."
+        "text": "We oversee arrival and installation, with site visits whenever the project calls for them."
       }
     ]
   },
-  "supply": {
-    "eyebrow": "What we supply",
-    "title": "Everything a project needs, under one direction.",
-    "categories": {
-      "kitchens": "Kitchens",
-      "lighting": "Lighting",
-      "sofas": "Sofas & upholstery",
-      "furniture": "Furniture, classic to contemporary",
-      "surfaces": "Parquet, marble & ceramics",
-      "doorsWindows": "Doors & windows",
-      "acoustic": "Acoustic panels & contract",
-      "metal": "Metal cladding & office structures"
+  "sectors": {
+    "eyebrow": "Sectors",
+    "title": "Specific expertise in every furniture sector.",
+    "lead": "Classic, contemporary, design or bespoke: for every space, we know whom to call.",
+    "items": {
+      "home": {
+        "title": "Homes",
+        "text": "Furniture, kitchens, sofas, lighting, flooring and wall coverings"
+      },
+      "office": {
+        "title": "Offices",
+        "text": "Workstations and executive offices, meeting rooms, partitions and acoustic panels"
+      },
+      "yacht": {
+        "title": "Yachts & marine",
+        "text": "Bespoke interiors for boats: furniture, upholstery, lighting and finishes"
+      },
+      "hotel": {
+        "title": "Hotels",
+        "text": "Rooms and suites, lobbies, restaurants and common areas"
+      },
+      "contract": {
+        "title": "Contract",
+        "text": "Serviced apartments, restaurants, retail and large specification-based supplies"
+      }
     }
   },
-  "partners": {
-    "eyebrow": "The manufacturers",
-    "title": "Companies that have been producing successfully for decades.",
-    "note": "A selection of the Italian brands we work with, by category.",
-    "groups": {
-      "kitchens": "Kitchens",
-      "lighting": "Lighting",
-      "sofas": "Sofas",
-      "furniture": "Furniture",
-      "doors": "Doors",
-      "safes": "Safes & accessories",
-      "metal": "Metal cladding",
-      "acoustic": "Acoustic panels"
-    }
+  "makers": {
+    "eyebrow": "Manufacturers",
+    "title": "The right manufacturer, whatever the request.",
+    "note": "Not a catalogue of brands, but a network built over the years: for each project we choose whoever can answer best on quality, timing and budget.",
+    "scaleStart": "Bespoke",
+    "scaleEnd": "Large volumes",
+    "items": [
+      {
+        "title": "Prototype maker & small artisan",
+        "text": "Niche production, made to measure and to the client’s own design."
+      },
+      {
+        "title": "Family-run company",
+        "text": "Reliable and flexible, with attention to detail even on small runs."
+      },
+      {
+        "title": "International brand",
+        "text": "Collections known worldwide, backed by structured service."
+      },
+      {
+        "title": "Major contract group",
+        "text": "Production capacity and organisation for the most varied requests."
+      }
+    ]
   },
   "projects": {
     "eyebrow": "Projects",
-    "title": "Selected delivered projects.",
-    "note": "Illustrative examples: real project photos and details will go here.",
+    "title": "From drawing to installation.",
+    "note": "Stock images: renders of the projects Opera Trade has followed will go here.",
     "sample": "Sample",
-    "items": [
-      {
-        "place": "Baku, Azerbaijan",
-        "title": "Boutique hotel",
-        "scope": "Rooms, lobby & lighting"
-      },
-      {
-        "place": "Persian Gulf",
-        "title": "Resort & residences",
-        "scope": "Outdoor furniture & upholstery"
-      },
-      {
-        "place": "Montenegro",
-        "title": "Seaside villa",
-        "scope": "Full furnishing & windows"
-      },
-      {
-        "place": "Tirana, Albania",
-        "title": "Executive offices",
-        "scope": "Acoustic panels & structures"
-      }
-    ]
+    "render": "Render",
+    "captions": {
+      "kitchen": "Bespoke kitchens",
+      "drawings": "Technical drawings shared with designers and manufacturers",
+      "materials": "Comparing material samples",
+      "kitchenWhite": "Kitchens and living spaces",
+      "finishes": "Choosing the finishes"
+    }
   },
   "where": {
     "eyebrow": "Where we work",
     "titleStart": "From Italy to ",
     "titleEmphasis": "growing markets.",
-    "text": "From our Fano headquarters we coordinate supplies to the Balkans, the Caucasus and the Middle East. In Baku, our office follows clients and deliveries on site.",
+    "text": "From our Fano headquarters we coordinate supplies to the Balkans, the Caucasus and the Middle East — and we travel whenever it matters: meeting clients, visiting sites, following deliveries up close.",
     "headquarters": {
       "label": "Headquarters",
       "address": "Fano (PU), Marche — Italy"
     },
-    "regionalOffice": {
-      "label": "Regional office",
-      "floor": "14th floor"
-    }
+    "territory": {
+      "label": "On the ground",
+      "title": "Targeted trips",
+      "text": "We meet clients, visit sites and follow deliveries in person."
+    },
+    "destinationsLabel": "Where you’ll often find us",
+    "destinations": [
+      "Tirana, Albania",
+      "Podgorica, Montenegro",
+      "Pristina, Kosovo",
+      "Skopje, North Macedonia",
+      "Tbilisi, Georgia",
+      "Yerevan, Armenia",
+      "Baku, Azerbaijan",
+      "Middle East"
+    ]
   },
   "founder": {
     "eyebrow": "The founder",
@@ -210,6 +235,8 @@
       "projectTypes": [
         "Hotel / contract",
         "Private residence",
+        "Office",
+        "Yacht / marine",
         "Retail / import",
         "Architecture studio",
         "Other"
@@ -229,7 +256,7 @@
     }
   },
   "footer": {
-    "tagline": "Italian furniture & contract for international projects.",
+    "tagline": "Italian furniture for homes, offices, yachts, hotels and contract.",
     "rights": "All rights reserved",
     "privacy": "Privacy",
     "cookies": "Cookies"

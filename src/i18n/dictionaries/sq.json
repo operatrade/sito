@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Opera Trade — mobilie italiane & kontrakt për projekte ndërkombëtare",
-    "description": "Lidhim arkitektë, hotele dhe klientë ndërkombëtarë me prodhuesit më të mirë italianë të mobilieve — dhe ndjekim çdo furnizim, nga zgjedhja e produktit deri te montimi."
+    "title": "Opera Trade — mobilie italiane për shtëpi, zyra, jahte, hotele & kontrakt",
+    "description": "Nga artizani i vogël te grupi i madh kontrakt: gjejmë prodhuesin e duhur italian për çdo projekt mobilimi dhe ndjekim furnizimin nga zgjedhja deri te montimi."
   },
   "draft": {
     "ribbon": "Pamje paraprake e faqes së re — fotot, shifrat, projektet dhe citimi janë të përkohshme.",
@@ -10,8 +10,8 @@
   "nav": {
     "about": "Rreth nesh",
     "method": "Metoda",
-    "supply": "Furnizime",
-    "partners": "Partnerët",
+    "sectors": "Sektorët",
+    "makers": "Prodhuesit",
     "projects": "Projektet",
     "contact": "Kontakt",
     "cta": "Flasim për projektin",
@@ -21,55 +21,59 @@
     "main": "Navigimi kryesor"
   },
   "hero": {
-    "eyebrow": "Mobilie italiane & kontrakt",
+    "eyebrow": "Mobilie italiane, në çdo sektor",
     "titleStart": "Mjeshtëria italiane, ",
     "titleEmphasis": "e dorëzuar kudo.",
-    "lead": "Lidhim arkitektë, hotele dhe klientë ndërkombëtarë me prodhuesit më të mirë italianë të mobilieve — dhe ndjekim çdo furnizim, nga zgjedhja e produktit deri te montimi.",
+    "lead": "Shtëpi, zyra, jahte, hotele dhe kontrakt: gjejmë prodhuesin e duhur italian për çdo projekt, nga artizani i vogël te grupi i madh — dhe ndjekim furnizimin nga zgjedhja deri te montimi.",
     "primaryCta": "Na tregoni për projektin tuaj",
-    "secondaryCta": "Prodhuesit tanë",
-    "badge": "prodhues italianë të përzgjedhur",
+    "secondaryCta": "Sektorët",
+    "badge": "sektorë, nga shtëpia te jahti",
     "caption": "Rezidencë private · shembull"
   },
   "places": {
     "fano": "Fano",
-    "baku": "Baku",
     "tirana": "Tiranë",
     "podgorica": "Podgoricë",
+    "pristina": "Prishtinë",
+    "skopje": "Shkup",
+    "tbilisi": "Tbilisi",
+    "yerevan": "Jerevan",
+    "baku": "Baku",
     "middleEast": "Lindja e Mesme"
   },
   "map": {
-    "label": "Harta: nga Fano drejt Ballkanit, Bakusë dhe Lindjes së Mesme",
-    "office": "Zyrë",
+    "label": "Harta: nga Fano drejt Ballkanit, Kaukazit dhe Lindjes së Mesme",
     "balkans": "Ballkani",
+    "caucasus": "Kaukazi",
     "mediterranean": "Deti Mesdhe",
     "blackSea": "Deti i Zi",
     "caspianSea": "Deti Kaspik"
   },
   "stats": {
     "years": "vjet përvojë në tregtinë e mobilieve",
-    "brands": "prodhues italianë partnerë",
-    "categories": "kategori produktesh, një kontakt i vetëm",
-    "offices": "zyra, në Fano dhe në Baku"
+    "countries": "vende ku shkojmë me udhëtime të synuara",
+    "makers": "lloje prodhuesish, nga artizani te grupi kontrakt",
+    "contact": "kontakt i vetëm, nga zgjedhja deri te montimi"
   },
   "about": {
     "eyebrow": "Rreth nesh",
-    "title": "Një urë mes prodhuesve italianë dhe projekteve të mëdha ndërkombëtare.",
+    "title": "Një urë mes mjeshtërisë italiane dhe projekteve ndërkombëtare.",
     "paragraphs": [
-      "Opera Trade lind nga përvoja e gjatë e Damiano Baldonit në tregtinë ndërkombëtare të mobilieve. Punojmë vetëm me kompani që prodhojnë me sukses prej dekadash, në Itali dhe jashtë saj, dhe i vëmë në shërbim të atyre që ndërtojnë dhe mobilojnë jashtë Italisë.",
+      "Opera Trade lind nga përvoja e Damiano Baldonit në tregtinë ndërkombëtare të mobilieve. Njohim çdo sektor — shtëpi, zyra, jahte, hotele dhe kontrakt — dhe çdo stil, nga klasikja te bashkëkohorja deri te punimet me porosi.",
       "Çdo kërkesë është një kërkim i personalizuar: prodhuesi i duhur, produkti unik, çmimi konkurrues. Pastaj qëndrojmë pranë klientit deri në dorëzim."
     ],
     "pillars": [
       {
-        "title": "Përzgjedhje e rreptë",
-        "text": "Vetëm prodhues me dekada histori dhe cilësi të provuar."
+        "title": "Çdo sektor, çdo stil",
+        "text": "Kompetenca specifike për shtëpinë, zyrën, jahtet, hotelerinë dhe kontraktin."
       },
       {
-        "title": "Kërkim me porosi",
-        "text": "Produkti i duhur për projektin, jo më i lehti për t’u shitur."
+        "title": "Prodhuesi i duhur",
+        "text": "I zgjedhur për projektin, nga artizani i vogël te grupi i madh, jo për lehtësi."
       },
       {
-        "title": "Prani në vend",
-        "text": "Një zyrë në Baku për të ndjekur nga afër klientët, dorëzimet dhe kantieret."
+        "title": "Prani në terren",
+        "text": "Udhëtime të synuara për të takuar klientët, për të vizituar kantieret dhe për të ndjekur dorëzimet."
       }
     ]
   },
@@ -114,80 +118,101 @@
       },
       {
         "title": "Dorëzimi",
-        "text": "Ndjekim mbërritjen dhe montimin në vend, me mbështetjen e zyrës sonë në Baku."
+        "text": "Ndjekim mbërritjen dhe montimin, me vizita në kantier kur projekti e kërkon."
       }
     ]
   },
-  "supply": {
-    "eyebrow": "Çfarë furnizojmë",
-    "title": "Gjithçka që i duhet një projekti, nën një drejtim të vetëm.",
-    "categories": {
-      "kitchens": "Kuzhina",
-      "lighting": "Ndriçim",
-      "sofas": "Divane dhe mobilie të veshura",
-      "furniture": "Mobilie, nga klasikja te bashkëkohorja",
-      "surfaces": "Parket, mermer dhe qeramikë",
-      "doorsWindows": "Dyer dhe dritare",
-      "acoustic": "Panele akustike & kontrakt",
-      "metal": "Veshje metalike dhe struktura zyrash"
+  "sectors": {
+    "eyebrow": "Sektorët",
+    "title": "Kompetenca specifike në çdo sektor të mobilimit.",
+    "lead": "Klasik, bashkëkohor, dizajn apo me porosi: për çdo ambient dimë kujt t’i drejtohemi.",
+    "items": {
+      "home": {
+        "title": "Shtëpi",
+        "text": "Mobilie, kuzhina, divane, ndriçim, dysheme dhe veshje muresh"
+      },
+      "office": {
+        "title": "Zyra",
+        "text": "Vende pune dhe zyra drejtuese, salla mbledhjesh, ndarëse dhe panele akustike"
+      },
+      "yacht": {
+        "title": "Jahte dhe nautikë",
+        "text": "Interiere me porosi për anije: mobilie, mobilie të veshura, ndriçim dhe përfundime"
+      },
+      "hotel": {
+        "title": "Hotele",
+        "text": "Dhoma dhe suita, lobi, restorante dhe ambiente të përbashkëta"
+      },
+      "contract": {
+        "title": "Kontrakt",
+        "text": "Rezidenca, restorante, retail dhe furnizime të mëdha sipas specifikimeve"
+      }
     }
   },
-  "partners": {
+  "makers": {
     "eyebrow": "Prodhuesit",
-    "title": "Kompani që prodhojnë me sukses prej dekadash.",
-    "note": "Një përzgjedhje e markave italiane me të cilat punojmë, sipas kategorive.",
-    "groups": {
-      "kitchens": "Kuzhina",
-      "lighting": "Ndriçim",
-      "sofas": "Divane",
-      "furniture": "Mobilie",
-      "doors": "Dyer",
-      "safes": "Kasaforta dhe aksesorë",
-      "metal": "Veshje metalike",
-      "acoustic": "Panele akustike"
-    }
+    "title": "Prodhuesi i duhur, cilado qoftë kërkesa.",
+    "note": "Jo një katalog markash, por një rrjet i ndërtuar ndër vite: për çdo projekt zgjedhim atë që mund të përgjigjet më mirë për cilësi, afate dhe buxhet.",
+    "scaleStart": "Me porosi",
+    "scaleEnd": "Volume të mëdha",
+    "items": [
+      {
+        "title": "Prototipist dhe artizan i vogël",
+        "text": "Prodhime nishe, me porosi dhe sipas projektit të klientit."
+      },
+      {
+        "title": "Kompani familjare",
+        "text": "Serioze dhe fleksibël, me kujdes për detajin edhe në sasi të vogla."
+      },
+      {
+        "title": "Markë ndërkombëtare",
+        "text": "Koleksione të njohura në botë dhe shërbim i strukturuar."
+      },
+      {
+        "title": "Grup i madh kontrakt",
+        "text": "Kapacitet prodhimi dhe organizim për kërkesat më të ndryshme."
+      }
+    ]
   },
   "projects": {
     "eyebrow": "Projekte",
-    "title": "Disa projekte të dorëzuara.",
-    "note": "Shembuj ilustrues: këtu do të vendosen fotot dhe të dhënat e projekteve reale.",
+    "title": "Nga vizatimi te montimi.",
+    "note": "Imazhe ilustruese: këtu do të vendosen renderat e projekteve të ndjekura nga Opera Trade.",
     "sample": "Shembull",
-    "items": [
-      {
-        "place": "Baku, Azerbajxhan",
-        "title": "Hotel butik",
-        "scope": "Dhoma, lobi dhe ndriçim"
-      },
-      {
-        "place": "Gjiri Persik",
-        "title": "Resort dhe rezidenca",
-        "scope": "Mobilie të jashtme dhe të veshura"
-      },
-      {
-        "place": "Mali i Zi",
-        "title": "Vilë buzë detit",
-        "scope": "Mobilim i plotë dhe dritare"
-      },
-      {
-        "place": "Tiranë, Shqipëri",
-        "title": "Zyra drejtuese",
-        "scope": "Panele akustike dhe struktura"
-      }
-    ]
+    "render": "Render",
+    "captions": {
+      "kitchen": "Kuzhina me porosi",
+      "drawings": "Vizatime teknike të ndara me projektuesit dhe prodhuesit",
+      "materials": "Krahasimi i kampioneve të materialeve",
+      "kitchenWhite": "Kuzhina dhe dhoma ndenjeje",
+      "finishes": "Zgjedhja e përfundimeve"
+    }
   },
   "where": {
     "eyebrow": "Ku operojmë",
     "titleStart": "Nga Italia drejt ",
     "titleEmphasis": "tregjeve në rritje.",
-    "text": "Nga selia në Fano koordinojmë furnizime drejt Ballkanit, Kaukazit dhe Lindjes së Mesme. Në Baku, zyra jonë ndjek klientët dhe dorëzimet në vend.",
+    "text": "Nga selia në Fano koordinojmë furnizime drejt Ballkanit, Kaukazit dhe Lindjes së Mesme — dhe shkojmë në vend kur ka rëndësi: takime me klientët, vizita në kantiere, dorëzime të ndjekura nga afër.",
     "headquarters": {
       "label": "Selia qendrore",
       "address": "Fano (PU), Marke — Itali"
     },
-    "regionalOffice": {
-      "label": "Zyra rajonale",
-      "floor": "kati i 14-të"
-    }
+    "territory": {
+      "label": "Në terren",
+      "title": "Udhëtime të synuara",
+      "text": "Takojmë klientët, vizitojmë kantieret dhe ndjekim dorëzimet personalisht."
+    },
+    "destinationsLabel": "Ku na gjeni shpesh",
+    "destinations": [
+      "Tiranë, Shqipëri",
+      "Podgoricë, Mal i Zi",
+      "Prishtinë, Kosovë",
+      "Shkup, Maqedoni e Veriut",
+      "Tbilisi, Gjeorgji",
+      "Jerevan, Armeni",
+      "Baku, Azerbajxhan",
+      "Lindja e Mesme"
+    ]
   },
   "founder": {
     "eyebrow": "Themeluesi",
@@ -210,6 +235,8 @@
       "projectTypes": [
         "Hotel / kontrakt",
         "Rezidencë private",
+        "Zyrë",
+        "Jaht / nautikë",
         "Rishitje / import",
         "Studio arkitekture",
         "Tjetër"
@@ -229,7 +256,7 @@
     }
   },
   "footer": {
-    "tagline": "Mobilie italiane & kontrakt për projekte ndërkombëtare.",
+    "tagline": "Mobilie italiane për shtëpi, zyra, jahte, hotele dhe kontrakt.",
     "rights": "Të gjitha të drejtat e rezervuara",
     "privacy": "Privatësia",
     "cookies": "Cookies"

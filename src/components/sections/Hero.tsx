@@ -1,10 +1,20 @@
 import Image from "next/image";
-import { photos } from "@/content/site";
+import { photos, sectors } from "@/content/site";
 import type { Dictionary } from "@/i18n/dictionaries";
 import { ArrowIcon } from "../Icons";
 
 export function Hero({ t, places }: { t: Dictionary["hero"]; places: Dictionary["places"] }) {
-  const route = [places.fano, places.baku, places.tirana, places.podgorica, places.middleEast];
+  const route = [
+    places.fano,
+    places.tirana,
+    places.podgorica,
+    places.pristina,
+    places.skopje,
+    places.tbilisi,
+    places.yerevan,
+    places.baku,
+    places.middleEast,
+  ];
   return (
     <section className="hero">
       <div className="wrap hero-grid">
@@ -20,7 +30,7 @@ export function Hero({ t, places }: { t: Dictionary["hero"]; places: Dictionary[
               <span>{t.primaryCta}</span>
               <ArrowIcon />
             </a>
-            <a className="link-arrow" href="#partners">
+            <a className="link-arrow" href="#sectors">
               {t.secondaryCta} →
             </a>
           </div>
@@ -49,7 +59,7 @@ export function Hero({ t, places }: { t: Dictionary["hero"]; places: Dictionary[
             <Image src={photos.heroPendants} alt="" fill sizes="(max-width: 1080px) 40vw, 240px" placeholder="blur" />
           </figure>
           <div className="badge">
-            <strong>19</strong>
+            <strong>{sectors.length}</strong>
             <span>{t.badge}</span>
           </div>
         </div>

@@ -8,8 +8,8 @@ import { Logo } from "./Logo";
 const sections = [
   { id: "about", key: "about" },
   { id: "method", key: "method" },
-  { id: "supply", key: "supply" },
-  { id: "partners", key: "partners" },
+  { id: "sectors", key: "sectors" },
+  { id: "makers", key: "makers" },
   { id: "projects", key: "projects" },
   { id: "contact", key: "contact" },
 ] as const;
