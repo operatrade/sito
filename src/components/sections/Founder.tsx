@@ -8,7 +8,7 @@ export function Founder({ t, draftNote }: { t: Dictionary["founder"]; draftNote:
         {/* Replace with Damiano's portrait (next/image inside .portrait) once available. */}
         <div className="portrait reveal">
           <b>DB</b>
-          <span>{t.portraitPlaceholder}</span>
+          {site.draft && <span>{t.portraitPlaceholder}</span>}
         </div>
         <div>
           <p className="eyebrow">{t.eyebrow}</p>

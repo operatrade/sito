@@ -16,10 +16,11 @@ import type { Dictionary } from "@/i18n/dictionaries";
 export const site = {
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.operatrade.it",
   /**
-   * While true the page shows the "preview" ribbon and marks the founder quote as a draft.
-   * Switch to false once real photos, figures, renders and the approved quote are in.
+   * While true the page shows the "preview" ribbon, "sample" tags on the photos and draft notes.
+   * Off since 12/11/2026, when operatrade.it moved to this site: photos, figures and the founder
+   * quote are still to be replaced with Damiano's renders and approved texts.
    */
-  draft: true,
+  draft: false,
   phone: { display: "+39 333 814 3526", href: "tel:+393338143526" },
   whatsapp: "https://wa.me/393338143526",
   emails: { info: "info@operatrade.it", ceo: "damiano.baldoni@operatrade.it" },

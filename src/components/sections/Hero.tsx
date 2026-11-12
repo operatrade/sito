@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { photos, sectors } from "@/content/site";
+import { photos, sectors, site } from "@/content/site";
 import type { Dictionary } from "@/i18n/dictionaries";
 import { ArrowIcon } from "../Icons";
 
@@ -52,7 +52,7 @@ export function Hero({ t, places }: { t: Dictionary["hero"]; places: Dictionary[
                 fetchPriority="high"
                 placeholder="blur"
               />
-              <figcaption>{t.caption}</figcaption>
+              {site.draft && <figcaption>{t.caption}</figcaption>}
             </figure>
           </div>
           <figure className="inset">
