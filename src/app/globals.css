@@ -47,7 +47,7 @@ p{margin:0 0 1.1em;color:var(--ink-2)}
 .site-header.scrolled{background:rgba(245,240,232,.92);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);box-shadow:0 1px 0 var(--line)}
 .header-row{display:flex;align-items:center;justify-content:space-between;gap:24px;height:78px}
 .logo{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:var(--ink)}
-.logo svg{width:30px;height:38px;flex:none;color:var(--bronze)}
+.logo svg{width:40px;height:40px;flex:none;color:var(--bronze)}
 .logo-word{display:flex;flex-direction:column;line-height:1}
 .logo-word b{font-family:var(--serif);font-weight:500;font-size:1.32rem;letter-spacing:.2em}
 .logo-word small{font-size:.56rem;letter-spacing:.42em;color:var(--muted);margin-top:5px;font-weight:600}
@@ -403,5 +403,5 @@ blockquote{margin:0}
 
 /* not found */
 .not-found{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;padding:40px var(--gutter);text-align:center}
-.not-found-mark{width:48px;height:60px;color:var(--bronze)}
+.not-found-mark{width:72px;height:72px;color:var(--bronze)}
 .not-found h1{font-size:4rem}
