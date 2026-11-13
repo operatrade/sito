@@ -187,6 +187,97 @@
       "materials": "Krahasimi i kampioneve të materialeve",
       "kitchenWhite": "Kuzhina dhe dhoma ndenjeje",
       "finishes": "Zgjedhja e përfundimeve"
+    },
+    "more": "Të gjitha projektet"
+  },
+  "portfolio": {
+    "meta": {
+      "title": "Projekte — Opera Trade",
+      "description": "Rezidenca private, hotele, fasada dhe hapësira të jashtme: një përzgjedhje projektesh në të cilat ka punuar Opera Trade."
+    },
+    "back": "Kreu",
+    "eyebrow": "Portofoli",
+    "titleStart": "Projekte në të cilat ",
+    "titleEmphasis": "kemi punuar.",
+    "lead": "Rezidenca private, hotele, fasada dhe hapësira të jashtme: një përzgjedhje e projekteve në të cilat kemi punuar së bashku me projektues dhe prodhues.",
+    "note": "Imazhet janë rendera projekti.",
+    "filterLabel": "Sektori",
+    "filters": {
+      "all": "Të gjitha",
+      "home": "Rezidenca",
+      "hotel": "Hotele",
+      "contract": "Contract dhe ambiente të jashtme"
+    },
+    "enlarge": "Zmadho",
+    "close": "Mbyll",
+    "previous": "E mëparshmja",
+    "next": "Tjetra",
+    "projects": {
+      "residence": {
+        "title": "Rezidencë private",
+        "text": "Klasik bashkëkohor, mes mermerit të çelët dhe tunxhit: dhoma e ndenjes, dhoma e ngrënies, kuzhina, dhomat e gjumit dhe banjot."
+      },
+      "hotelRooms": {
+        "title": "Dhoma hoteli në dru dhe dritë të ngrohtë",
+        "text": "Dru, tekstile natyrale dhe ndriçim indirekt: dhoma, gardërobë të hapura dhe banjo."
+      },
+      "apartment": {
+        "title": "Apartament",
+        "text": "Tone kremi dhe pudre, boazeri dhe letër-muri me motive botanike: dhoma e ndenjes, e ngrënies, kuzhina, dhoma e gjumit dhe banjot."
+      },
+      "facade": {
+        "title": "Fasada e selisë së një kompanie",
+        "text": "Një ndërtesë zyrash e veshur me një lëkurë të re të shpuar, me një tufë zogjsh në fluturim: para dhe pas ndërhyrjes, ditën dhe natën."
+      },
+      "manor": {
+        "title": "Rezidencë përfaqësuese",
+        "text": "Salla të mëdha, mermer, kadife dhe tunxh: dhoma ndenjeje, studio, dhomë gjumi dhe banjo kryesore."
+      },
+      "hotelSuite": {
+        "title": "Dhoma hoteli në tonet e detit",
+        "text": "Mur ngjyrë uji deti, dru i çelët dhe li: dhoma dhe banjo."
+      },
+      "villa": {
+        "title": "Vilë, zona e ndenjes",
+        "text": "Sallon me piano, dhomë ngrënieje dhe oxhak, mes boazerive dhe llambadarëve prej kristali."
+      },
+      "beach": {
+        "title": "Lounge në plazh",
+        "text": "Divane dhe kolltuqe me fibër të thurur, çadra dhe platforma druri për një beach club."
+      },
+      "loft": {
+        "title": "Apartament bashkëkohor",
+        "text": "Blu petroli, bakër dhe dru i errët: dhoma e ndenjes, kuzhina, hyrja, dhomat e gjumit dhe dhoma e veshjeve."
+      },
+      "hall": {
+        "title": "Hyrje përfaqësuese",
+        "text": "Shkallë e harkuar, boazeri dhe dysheme mermeri me inkrustime, deri te korridoret e dhomave."
+      }
+    },
+    "rooms": {
+      "living": "Dhoma e ndenjes",
+      "dining": "Dhoma e ngrënies",
+      "kitchen": "Kuzhina",
+      "bedroom": "Dhoma e gjumit",
+      "bathroom": "Banjo",
+      "wardrobe": "Gardëroba",
+      "study": "Studio",
+      "entrance": "Hyrja",
+      "staircase": "Shkallët",
+      "corridor": "Korridori",
+      "guestRoom": "Dhoma",
+      "seating": "Këndi i ndenjes",
+      "lounge": "Lounge",
+      "before": "Para",
+      "after": "Pas",
+      "night": "Natën",
+      "detail": "Detaj",
+      "aerial": "Pamje nga lart"
+    },
+    "cta": {
+      "title": "Keni një projekt në mendje?",
+      "text": "Na tregoni: gjejmë prodhuesit e duhur dhe e ndjekim furnizimin deri te montimi.",
+      "button": "Na tregoni për projektin tuaj"
     }
   },
   "where": {

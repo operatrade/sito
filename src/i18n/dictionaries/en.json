@@ -187,6 +187,97 @@
       "materials": "Comparing material samples",
       "kitchenWhite": "Kitchens and living spaces",
       "finishes": "Choosing the finishes"
+    },
+    "more": "All projects"
+  },
+  "portfolio": {
+    "meta": {
+      "title": "Projects — Opera Trade",
+      "description": "Private residences, hotels, façades and outdoor spaces: a selection of furnishing projects Opera Trade has worked on."
+    },
+    "back": "Home",
+    "eyebrow": "Portfolio",
+    "titleStart": "Projects we have ",
+    "titleEmphasis": "worked on.",
+    "lead": "Private residences, hotels, façades and outdoor spaces: a selection of the projects we have worked on with designers and manufacturers.",
+    "note": "Images are project renders.",
+    "filterLabel": "Sector",
+    "filters": {
+      "all": "All",
+      "home": "Residences",
+      "hotel": "Hotels",
+      "contract": "Contract & outdoor"
+    },
+    "enlarge": "Enlarge",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next",
+    "projects": {
+      "residence": {
+        "title": "Private residence",
+        "text": "Contemporary classic in pale marble and brass: living room, dining room, kitchen, bedrooms and bathrooms."
+      },
+      "hotelRooms": {
+        "title": "Hotel rooms in wood and warm light",
+        "text": "Wood, natural fabrics and indirect lighting: rooms, open wardrobes and bathrooms."
+      },
+      "apartment": {
+        "title": "Apartment",
+        "text": "Cream and powder tones, wall panelling and botanical wallpapers: living, dining, kitchen, bedroom and bathrooms."
+      },
+      "facade": {
+        "title": "Façade of a company headquarters",
+        "text": "An office building wrapped in a new perforated skin with a flock of birds in flight: before and after, by day and by night."
+      },
+      "manor": {
+        "title": "Formal residence",
+        "text": "Grand reception rooms, marble, velvet and brass: living rooms, study, bedroom and master bathroom."
+      },
+      "hotelSuite": {
+        "title": "Hotel rooms in sea tones",
+        "text": "Aqua-green walls, light wood and linen: rooms and bathroom."
+      },
+      "villa": {
+        "title": "Villa, living area",
+        "text": "Drawing room with grand piano, dining room and fireplace, among wall panelling and crystal chandeliers."
+      },
+      "beach": {
+        "title": "Beach lounge",
+        "text": "Woven-fibre sofas and armchairs, parasols and decking for a beach club."
+      },
+      "loft": {
+        "title": "Contemporary apartment",
+        "text": "Petrol blue, copper and dark wood: living room, kitchen, entrance, bedrooms and walk-in wardrobe."
+      },
+      "hall": {
+        "title": "Formal entrance hall",
+        "text": "Curved staircase, panelling and inlaid marble floors, through to the bedroom corridors."
+      }
+    },
+    "rooms": {
+      "living": "Living room",
+      "dining": "Dining room",
+      "kitchen": "Kitchen",
+      "bedroom": "Bedroom",
+      "bathroom": "Bathroom",
+      "wardrobe": "Wardrobe",
+      "study": "Study",
+      "entrance": "Entrance",
+      "staircase": "Staircase",
+      "corridor": "Corridor",
+      "guestRoom": "Room",
+      "seating": "Seating area",
+      "lounge": "Lounge",
+      "before": "Before",
+      "after": "After",
+      "night": "By night",
+      "detail": "Detail",
+      "aerial": "From above"
+    },
+    "cta": {
+      "title": "Have a project in mind?",
+      "text": "Tell us about it: we find the right manufacturers and follow the supply through to installation.",
+      "button": "Tell us about your project"
     }
   },
   "where": {

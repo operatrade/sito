@@ -187,6 +187,97 @@
       "materials": "Material nümunələrinin müqayisəsi",
       "kitchenWhite": "Mətbəx və qonaq otaqları",
       "finishes": "Bəzək seçimi"
+    },
+    "more": "Bütün layihələr"
+  },
+  "portfolio": {
+    "meta": {
+      "title": "Layihələr — Opera Trade",
+      "description": "Fərdi iqamətgahlar, otellər, fasadlar və açıq məkanlar: Opera Trade-in üzərində işlədiyi layihələrdən seçmə."
+    },
+    "back": "Ana səhifə",
+    "eyebrow": "Portfolio",
+    "titleStart": "Üzərində işlədiyimiz ",
+    "titleEmphasis": "layihələr.",
+    "lead": "Fərdi iqamətgahlar, otellər, fasadlar və açıq məkanlar: dizaynerlər və istehsalçılarla birlikdə üzərində işlədiyimiz layihələrdən seçmə.",
+    "note": "Şəkillər layihə renderləridir.",
+    "filterLabel": "Sektor",
+    "filters": {
+      "all": "Hamısı",
+      "home": "İqamətgahlar",
+      "hotel": "Otellər",
+      "contract": "Kontrakt və açıq məkanlar"
+    },
+    "enlarge": "Böyüt",
+    "close": "Bağla",
+    "previous": "Əvvəlki",
+    "next": "Növbəti",
+    "projects": {
+      "residence": {
+        "title": "Fərdi iqamətgah",
+        "text": "Müasir klassika, açıq rəngli mərmər və latun: qonaq otağı, yemək otağı, mətbəx, yataq otaqları və vanna otaqları."
+      },
+      "hotelRooms": {
+        "title": "Ağac və isti işıqlı otel otaqları",
+        "text": "Ağac, təbii parçalar və dolayı işıqlandırma: otaqlar, açıq qarderoblar və vanna otaqları."
+      },
+      "apartment": {
+        "title": "Mənzil",
+        "text": "Krem və pudra tonları, buazeri və botanik divar kağızları: qonaq otağı, yemək otağı, mətbəx, yataq otağı və vanna otaqları."
+      },
+      "facade": {
+        "title": "Şirkət binasının fasadı",
+        "text": "Uçan quş sürüsü təsvirli yeni perforasiyalı örtüklə üzlənmiş ofis binası: əvvəl və sonra, gündüz və gecə."
+      },
+      "manor": {
+        "title": "Təmsilçilik iqamətgahı",
+        "text": "Geniş salonlar, mərmər, məxmər və latun: qonaq otaqları, iş otağı, yataq otağı və əsas vanna otağı."
+      },
+      "hotelSuite": {
+        "title": "Dəniz tonlarında otel otaqları",
+        "text": "Dəniz yaşılı divar, açıq rəngli ağac və kətan: otaqlar və vanna otağı."
+      },
+      "villa": {
+        "title": "Villa, qonaq zonası",
+        "text": "Royallı salon, yemək otağı və kamin, buazeri və büllur çilçıraqlar arasında."
+      },
+      "beach": {
+        "title": "Çimərlik lounge zonası",
+        "text": "Hörmə lifdən divan və kreslolar, çətirlər və taxta platformalar — çimərlik klubu üçün."
+      },
+      "loft": {
+        "title": "Müasir mənzil",
+        "text": "Petrol rəngi, mis və tünd ağac: qonaq otağı, mətbəx, giriş holu, yataq otaqları və qarderob otağı."
+      },
+      "hall": {
+        "title": "Təntənəli giriş holu",
+        "text": "Əyri pilləkən, buazeri və inkrustasiyalı mərmər döşəmələr — yataq otaqlarının dəhlizlərinə qədər."
+      }
+    },
+    "rooms": {
+      "living": "Qonaq otağı",
+      "dining": "Yemək otağı",
+      "kitchen": "Mətbəx",
+      "bedroom": "Yataq otağı",
+      "bathroom": "Vanna otağı",
+      "wardrobe": "Qarderob",
+      "study": "İş otağı",
+      "entrance": "Giriş holu",
+      "staircase": "Pilləkən",
+      "corridor": "Dəhliz",
+      "guestRoom": "Otaq",
+      "seating": "İstirahət guşəsi",
+      "lounge": "Lounge zonası",
+      "before": "Əvvəl",
+      "after": "Sonra",
+      "night": "Gecə",
+      "detail": "Detal",
+      "aerial": "Yuxarıdan görünüş"
+    },
+    "cta": {
+      "title": "Ağlınızda bir layihə var?",
+      "text": "Bizə danışın: uyğun istehsalçıları tapır, tədarükü quraşdırmaya qədər izləyirik.",
+      "button": "Layihənizdən danışın"
     }
   },
   "where": {

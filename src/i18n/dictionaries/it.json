@@ -187,6 +187,97 @@
       "materials": "Campionari di materiali a confronto",
       "kitchenWhite": "Cucine e living",
       "finishes": "La scelta delle finiture"
+    },
+    "more": "Tutti i progetti"
+  },
+  "portfolio": {
+    "meta": {
+      "title": "Progetti — Opera Trade",
+      "description": "Residenze private, hotel, facciate e spazi all’aperto: una selezione di progetti d’arredo a cui ha lavorato Opera Trade."
+    },
+    "back": "Home",
+    "eyebrow": "Portfolio",
+    "titleStart": "Progetti a cui ",
+    "titleEmphasis": "abbiamo lavorato.",
+    "lead": "Residenze private, hotel, facciate e spazi all’aperto: una selezione dei progetti a cui abbiamo lavorato insieme a progettisti e produttori.",
+    "note": "Le immagini sono render di progetto.",
+    "filterLabel": "Settore",
+    "filters": {
+      "all": "Tutti",
+      "home": "Residenze",
+      "hotel": "Hotel",
+      "contract": "Contract ed esterni"
+    },
+    "enlarge": "Ingrandisci",
+    "close": "Chiudi",
+    "previous": "Precedente",
+    "next": "Successiva",
+    "projects": {
+      "residence": {
+        "title": "Residenza privata",
+        "text": "Classico contemporaneo, tra marmi chiari e ottone: soggiorno, sala da pranzo, cucina, camere e bagni."
+      },
+      "hotelRooms": {
+        "title": "Camere d’hotel in legno e luce calda",
+        "text": "Legno, tessuti naturali e luce indiretta: camere, guardaroba a giorno e bagni."
+      },
+      "apartment": {
+        "title": "Appartamento",
+        "text": "Toni crema e cipria, boiserie e carte da parati botaniche: soggiorno, pranzo, cucina, camera e bagni."
+      },
+      "facade": {
+        "title": "Facciata di una sede aziendale",
+        "text": "Un edificio per uffici rivestito da una nuova pelle traforata, con uno stormo di uccelli in volo: prima e dopo l’intervento, di giorno e di notte."
+      },
+      "manor": {
+        "title": "Residenza di rappresentanza",
+        "text": "Grandi saloni, marmi, velluti e ottone: soggiorni, studio, camera e bagno padronale."
+      },
+      "hotelSuite": {
+        "title": "Camere d’hotel sui toni del mare",
+        "text": "Parete verde acqua, legno chiaro e lino: camere e bagno."
+      },
+      "villa": {
+        "title": "Villa, zona giorno",
+        "text": "Salone con pianoforte, sala da pranzo e camino, tra boiserie e lampadari in cristallo."
+      },
+      "beach": {
+        "title": "Lounge sulla spiaggia",
+        "text": "Divani e poltrone in fibra intrecciata, ombrelloni e pedane per un beach club."
+      },
+      "loft": {
+        "title": "Appartamento contemporaneo",
+        "text": "Petrolio, rame e legno scuro: soggiorno, cucina, ingresso, camere e cabina armadio."
+      },
+      "hall": {
+        "title": "Ingresso di rappresentanza",
+        "text": "Scalone curvo, boiserie e pavimenti in marmo intarsiato, fino ai corridoi delle camere."
+      }
+    },
+    "rooms": {
+      "living": "Soggiorno",
+      "dining": "Sala da pranzo",
+      "kitchen": "Cucina",
+      "bedroom": "Camera da letto",
+      "bathroom": "Bagno",
+      "wardrobe": "Guardaroba",
+      "study": "Studio",
+      "entrance": "Ingresso",
+      "staircase": "Scalone",
+      "corridor": "Corridoio",
+      "guestRoom": "Camera",
+      "seating": "Zona salotto",
+      "lounge": "Lounge",
+      "before": "Prima dell’intervento",
+      "after": "Dopo l’intervento",
+      "night": "Di notte",
+      "detail": "Dettaglio",
+      "aerial": "Vista dall’alto"
+    },
+    "cta": {
+      "title": "Hai un progetto in mente?",
+      "text": "Raccontacelo: troviamo i produttori giusti e seguiamo la fornitura fino alla posa.",
+      "button": "Parliamo del progetto"
     }
   },
   "where": {

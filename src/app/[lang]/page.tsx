@@ -35,12 +35,12 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
         <Method t={dict.method} />
         <Sectors t={dict.sectors} />
         <Makers t={dict.makers} />
-        <Projects t={dict.projects} />
+        <Projects t={dict.projects} locale={locale} />
         <Where t={dict.where} map={dict.map} places={dict.places} />
         <Founder t={dict.founder} draftNote={dict.draft.quoteNote} />
         <Contact t={dict.contact} locale={locale} />
       </main>
-      <Footer t={dict.footer} nav={dict.nav} />
+      <Footer t={dict.footer} nav={dict.nav} locale={locale} />
       <WhatsAppButton label={dict.contact.direct.whatsapp} />
       <RevealOnScroll />
     </>

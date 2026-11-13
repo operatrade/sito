@@ -6,22 +6,23 @@ import type { Dictionary } from "@/i18n/dictionaries";
 import { LockIcon } from "./Icons";
 import { Logo } from "./Logo";
 
+/** Sections of the home page; "Projects" is the separate /portfolio page. */
 const sections = [
   { id: "about", key: "about" },
   { id: "method", key: "method" },
   { id: "sectors", key: "sectors" },
   { id: "makers", key: "makers" },
-  { id: "projects", key: "projects" },
-  { id: "contact", key: "contact" },
 ] as const;
 
-function LanguageLinks({ locale, label, onPick }: { locale: Locale; label: string; onPick?: () => void }) {
+export type SitePage = "home" | "portfolio";
+
+function LanguageLinks({ locale, label, path, onPick }: { locale: Locale; label: string; path: string; onPick?: () => void }) {
   return (
     <div className="langs" role="group" aria-label={label}>
       {locales.map((code) => (
         <a
           key={code}
-          href={`/${code}`}
+          href={`/${code}${path}`}
           hrefLang={code}
           lang={code}
           title={localeNames[code]}
@@ -35,7 +36,24 @@ function LanguageLinks({ locale, label, onPick }: { locale: Locale; label: strin
   );
 }
 
-export function Header({ locale, nav, loginUrl }: { locale: Locale; nav: Dictionary["nav"]; loginUrl: string }) {
+export function Header({
+  locale,
+  nav,
+  loginUrl,
+  page = "home",
+}: {
+  locale: Locale;
+  nav: Dictionary["nav"];
+  loginUrl: string;
+  page?: SitePage;
+}) {
+  // On the home page the links are anchors; elsewhere they lead back to the home page's sections.
+  const home = page === "home" ? "" : `/${locale}`;
+  const path = page === "home" ? "" : `/${page}`;
+  const links = [
+    ...sections.map((s) => ({ href: `${home}#${s.id}`, label: nav[s.key], current: false })),
+    { href: `/${locale}/portfolio`, label: nav.projects, current: page === "portfolio" },
+  ];
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -59,12 +77,12 @@ export function Header({ locale, nav, loginUrl }: { locale: Locale; nav: Diction
     <>
       <header className={`site-header${scrolled ? " scrolled" : ""}`} id="top">
         <div className="wrap header-row">
-          <Logo href="#top" />
+          <Logo href={page === "home" ? "#top" : `/${locale}`} />
           <nav className="nav" aria-label={nav.main}>
             {/* "Contact" is the button on the right: listing it here too would only crowd the bar. */}
-            {sections.filter((s) => s.id !== "contact").map((s) => (
-              <a key={s.id} href={`#${s.id}`}>
-                {nav[s.key]}
+            {links.map((link) => (
+              <a key={link.href} href={link.href} aria-current={link.current ? "page" : undefined}>
+                {link.label}
               </a>
             ))}
           </nav>
@@ -73,8 +91,8 @@ export function Header({ locale, nav, loginUrl }: { locale: Locale; nav: Diction
               <LockIcon />
               <span>{nav.login}</span>
             </a>
-            <LanguageLinks locale={locale} label={nav.language} />
-            <a className="btn btn-sm" href="#contact">
+            <LanguageLinks locale={locale} label={nav.language} path={path} />
+            <a className="btn btn-sm" href={`${home}#contact`}>
               {nav.cta}
             </a>
             <button
@@ -96,13 +114,13 @@ export function Header({ locale, nav, loginUrl }: { locale: Locale; nav: Diction
           ×
         </button>
         <nav aria-label={nav.main}>
-          {sections.map((s) => (
-            <a key={s.id} href={`#${s.id}`} onClick={close}>
-              {nav[s.key]}
+          {[...links, { href: `${home}#contact`, label: nav.contact, current: false }].map((link) => (
+            <a key={link.href} href={link.href} aria-current={link.current ? "page" : undefined} onClick={close}>
+              {link.label}
             </a>
           ))}
         </nav>
-        <LanguageLinks locale={locale} label={nav.language} onPick={close} />
+        <LanguageLinks locale={locale} label={nav.language} path={path} onPick={close} />
         <a className="login-link mobile-login" href={loginUrl}>
           <LockIcon />
           <span>{nav.login}</span>

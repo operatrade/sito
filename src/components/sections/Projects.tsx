@@ -1,6 +1,8 @@
 import Image from "next/image";
 import { gallery, site } from "@/content/site";
+import type { Locale } from "@/i18n/config";
 import type { Dictionary } from "@/i18n/dictionaries";
+import { ArrowIcon } from "../Icons";
 
 // Column spans live in globals.css (.shot-wide 7, .shot-narrow 5, .shot-third 4 of 12).
 const sizes = {
@@ -9,7 +11,7 @@ const sizes = {
   third: "(max-width: 720px) 92vw, 400px",
 } as const;
 
-export function Projects({ t }: { t: Dictionary["projects"] }) {
+export function Projects({ t, locale }: { t: Dictionary["projects"]; locale: Locale }) {
   return (
     <section className="section" id="projects">
       <div className="wrap">
@@ -18,7 +20,13 @@ export function Projects({ t }: { t: Dictionary["projects"] }) {
             <p className="eyebrow">{t.eyebrow}</p>
             <h2>{t.title}</h2>
           </div>
-          {site.draft && <p>{t.note}</p>}
+          <div className="section-head-aside">
+            {site.draft && <p>{t.note}</p>}
+            <a className="btn" href={`/${locale}/portfolio`}>
+              <span>{t.more}</span>
+              <ArrowIcon />
+            </a>
+          </div>
         </div>
         <div className="gallery">
           {gallery.map((item) => (
